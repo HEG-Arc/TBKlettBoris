@@ -1,0 +1,57 @@
+{
+  "userSays": [
+    {
+      "id": "07bb418c-18e3-4c4b-b47c-a700e5df8014",
+      "data": [
+        {
+          "text": "peux-tu être intelligent"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "75704db7-a950-47cf-b14e-4acace25ea40",
+      "data": [
+        {
+          "text": "sois itelligente"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "378e5fcd-a87f-4c45-b5e9-67f4398cdcaa",
+      "data": [
+        {
+          "text": "sois intelligent"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "fa751c55-a2bd-49ef-91ed-5e1aa6f508df",
+  "name": "smalltalk.agent.be_clever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.be_clever",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "La liste de mes compétences est longue !"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

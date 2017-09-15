@@ -1,0 +1,35 @@
+{
+  "id": "e8e50cb8-9a5d-4c96-8005-115e285057f9",
+  "name": "userName",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Klett",
+      "synonyms": [
+        "Klett"
+      ]
+    },
+    {
+      "value": "Bakouloukila",
+      "synonyms": [
+        "Bakouloukila"
+      ]
+    },
+    {
+      "value": "Fivaz",
+      "synonyms": [
+        "Fivaz",
+        "fivaz"
+      ]
+    },
+    {
+      "value": "Habegger",
+      "synonyms": [
+        "Habegger",
+        "habegger"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

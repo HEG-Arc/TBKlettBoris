@@ -1,0 +1,206 @@
+{
+  "userSays": [
+    {
+      "id": "109791bf-b4c5-41a4-b75a-8c5b7c798464",
+      "data": [
+        {
+          "text": "tu dois "
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027aider"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d07edd93-213f-44f2-ae71-5ad89228fad6",
+      "data": [
+        {
+          "text": "il faut que tu "
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027aides"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1da5d66c-2c7a-4d58-9d70-01703543d4e8",
+      "data": [
+        {
+          "text": "aide-moi "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " peu"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eef217b7-038f-44fe-83fa-30f1b49207f0",
+      "data": [
+        {
+          "text": "aide-moi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4cf5cfba-3689-4276-bec9-736b6eb6452e",
+      "data": [
+        {
+          "text": "peux-tu aider"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1f202d87-6b67-4f9a-b49f-7beea65a15f1",
+      "data": [
+        {
+          "text": "j\u0027ai vraiment besoin de "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " aide"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "75d70636-0322-46b5-b956-f7178f768787",
+      "data": [
+        {
+          "text": "j\u0027ai besoin d\u0027aide"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f856872a-71b2-4a7d-a528-64dd152ca1ef",
+      "data": [
+        {
+          "text": "est-ce que tu peux "
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027aider"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a3b53942-2792-4ea9-913c-30e875f7a8f0",
+      "data": [
+        {
+          "text": "peux-tu "
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027aider"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "126717b3-33cf-4655-823b-2dde45ef2f15",
+      "data": [
+        {
+          "text": "pourrais-tu "
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027aider"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "675a089d-f5b5-4e55-91b0-726ca0b63ef9",
+      "data": [
+        {
+          "text": "il me faut "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " aide"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    }
+  ],
+  "id": "366773f4-b692-4183-bea0-f309aaa2343e",
+  "name": "smalltalk.agent.can_you_help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.can_you_help",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Bien entendu. C\u0027est ma mission de te venir en aide dès que tu as besoin de moi. Que puis-je faire pour toi ?",
+            "Bien entendu, et j\u0027y tiens.",
+            "Oui, que puis-je faire pour t\u0027aider ?",
+            "Évidemment. Dis-moi ce que je peux faire pour toi aujourd\u0027hui."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

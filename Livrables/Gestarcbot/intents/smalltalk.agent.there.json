@@ -1,0 +1,413 @@
+{
+  "userSays": [
+    {
+      "id": "b86e605d-3594-4050-ad77-fa54b82c2d56",
+      "data": [
+        {
+          "text": "es-tu "
+        },
+        {
+          "text": "toujours",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ici",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "a4a73083-1191-48a4-87ef-1480992ef169",
+      "data": [
+        {
+          "text": "es-tu "
+        },
+        {
+          "text": "toujours",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " là"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d237f622-4302-4dc6-8ea6-16edc8ef5390",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "es",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "toujours",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " là"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cdedfad1-2ce7-4d38-8fe2-bb85bef65bd7",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "es",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "toujours",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ici",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ced219f7-9011-4e9b-ac40-8737f3bf8ac5",
+      "data": [
+        {
+          "text": "tu",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "es",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "toujours",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ici",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bdd566fc-7979-42e0-a12f-f4b2beb642ce",
+      "data": [
+        {
+          "text": "tu",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "es",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ici",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ou",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "non",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bcb6f74b-7cad-47e4-8c4e-8fc701f5a54d",
+      "data": [
+        {
+          "text": "tu",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "es",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ici",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1146e761-fa90-4eea-a0e8-291260e80d8a",
+      "data": [
+        {
+          "text": "es-tu "
+        },
+        {
+          "text": "ici",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8366d640-8ab0-4204-97ce-a57cecc5c36a",
+      "data": [
+        {
+          "text": "est-ce que "
+        },
+        {
+          "text": "tu",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "es",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ici",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f598b76a-57fe-4989-a4ad-47263dfe1a7e",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "es",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " là "
+        },
+        {
+          "text": "ou",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1b0af6c-be72-47be-88f8-be9805e70e21",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "es",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " là"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2639241f-74e4-47cb-b7cf-607d9f8d716c",
+      "data": [
+        {
+          "text": "est-ce que "
+        },
+        {
+          "text": "tu",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "es",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " là"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "13e1d7dd-f6b4-457d-8f19-4e879e01d056",
+      "data": [
+        {
+          "text": "es-tu là"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "c6e7ce01-6fb8-4459-961a-c5a655508b08",
+      "data": [
+        {
+          "text": "tu es là"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "81193ea6-a7f5-4954-8123-7caf9f5d9d58",
+      "data": [
+        {
+          "text": "t\u0027es là "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "201b2700-8440-4df4-a228-00964eba020c",
+  "name": "smalltalk.agent.there",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.there",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Toujours là pour te servir.",
+            "Bien sûr, je me cache derrière ton écran",
+            "Je me tiens à ta disposition."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

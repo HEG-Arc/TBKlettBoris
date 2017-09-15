@@ -1,0 +1,36 @@
+{
+  "userSays": [],
+  "id": "acc5e2ea-a4db-4a59-a3a8-14da81e65077",
+  "name": "User_FallBack_context-research-information_intent",
+  "auto": false,
+  "contexts": [
+    "context-research-information"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "context-research-information",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Désolé je n\u0027ai que la possibilité de te donner la date, l\u0027heure, le lieu, les photos, les prix, le thème et type de l\u0027événement comme information. C\u0027est comme tu veux."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

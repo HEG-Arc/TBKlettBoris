@@ -1,0 +1,243 @@
+{
+  "userSays": [
+    {
+      "id": "74b55792-ac60-444d-8002-41ca822aaf70",
+      "data": [
+        {
+          "text": "hobby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "68cadf84-9749-4c6c-8aa7-6db095e97c8c",
+      "data": [
+        {
+          "text": "que fais-tu pour "
+        },
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027amuser"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b63a567e-4281-4ce8-944d-2f92a13f8c5c",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "as",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " quoi "
+        },
+        {
+          "text": "comme",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " hobby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aa50e276-7cd0-4cae-b98b-8d84211d57fb",
+      "data": [
+        {
+          "text": "est-ce que tu "
+        },
+        {
+          "text": "as",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " hobby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8726d7f8-aa15-4cbc-aaa2-6e2d2c8236c4",
+      "data": [
+        {
+          "text": "as-tu "
+        },
+        {
+          "text": "des",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " hobbies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1b510d25-2bff-47fb-b9cb-230d87747385",
+      "data": [
+        {
+          "text": "c",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " quoi "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " hobby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "91120044-9846-479b-801f-b9dc297ffef4",
+      "data": [
+        {
+          "text": "quel "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " hobby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "02839307-0066-42d8-90cf-2c0172706ecd",
+      "data": [
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " hobby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c58f1969-0007-4cdd-a3cf-cd972d0fe4fd",
+      "data": [
+        {
+          "text": "tes hobbies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "06191d97-23c1-4f9d-97cd-e3f751f56699",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "as",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "quelques",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " hobbies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a3939bb1-61cb-4b20-a503-dcc0fbdaffb6",
+      "data": [
+        {
+          "text": "tes hobbys"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "00404c8e-8358-40be-9373-ee642a94b3a6",
+  "name": "smalltalk.agent.hobby",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.hobby",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Mon travail est mon hobby. Ceux qui trouvent un moyen de vivre de leur passion sont vraiment chanceux."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,245 @@
+{
+  "userSays": [
+    {
+      "id": "a45dd067-7e7e-40f4-8c0a-4955d1127e09",
+      "data": [
+        {
+          "text": "six",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " svp"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f4c212e4-fb4d-476e-a2f5-b29eda23df47",
+      "data": [
+        {
+          "text": "4",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " stp"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "34eb71bd-20c5-4cee-9b71-704a0c222a1c",
+      "data": [
+        {
+          "text": "deux",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " s\u0027il-vous-plaît"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0013549f-b044-4683-9696-d85c146eb3e2",
+      "data": [
+        {
+          "text": "3",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " s\u0027il-te-plaît"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5a23a7b6-f491-451c-b930-f57a78fced63",
+      "data": [
+        {
+          "text": "6",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "750b3dde-aceb-4873-8b91-e3c29dbb3793",
+      "data": [
+        {
+          "text": "J\u0027aimerais "
+        },
+        {
+          "text": "3",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "10dce894-e551-4bc7-ae1e-e50a44d24472",
+      "data": [
+        {
+          "text": "Je veux "
+        },
+        {
+          "text": "2",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " ticket s\u0027il te plaît"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0467a5de-75e2-4510-8d5b-6238c7964a77",
+      "data": [
+        {
+          "text": "Juste "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " ticket s\u0027il te plaît"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "150d7080-0041-45df-ba08-631ac7cf4be8",
+      "data": [
+        {
+          "text": "J\u0027aimerais "
+        },
+        {
+          "text": "5",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " s\u0027il te plaît"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "26605317-b62d-44a5-a30b-73534477d7f0",
+      "data": [
+        {
+          "text": "Seulement "
+        },
+        {
+          "text": "un",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2cf32e25-e0cd-4a43-b17f-8586edb6f99a",
+      "data": [
+        {
+          "text": "J\u0027en veux "
+        },
+        {
+          "text": "deux",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dd8f4189-0b37-479a-b92e-533d86938a7c",
+      "data": [
+        {
+          "text": "J\u0027en prend "
+        },
+        {
+          "text": "un",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " s\u0027il te plaît"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "2a596e2a-882b-4262-8856-623b365ace16",
+  "name": "Ticket-reservation",
+  "auto": true,
+  "contexts": [
+    "context-ticket-reservation-reservation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "tickets-reservation",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number_of_tickets",
+          "value": "$number_of_tickets",
+          "prompts": [
+            "Combien de ticket?"
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "ça ne marche pas"
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

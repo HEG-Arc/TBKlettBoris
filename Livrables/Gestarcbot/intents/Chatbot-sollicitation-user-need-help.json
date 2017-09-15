@@ -1,0 +1,125 @@
+{
+  "userSays": [
+    {
+      "id": "5bb0b6ac-5765-4ddd-86c0-42fbc4082d06",
+      "data": [
+        {
+          "text": "bien"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "df71f3b1-c090-4e6b-b434-09e2c565e99c",
+      "data": [
+        {
+          "text": "oui s\u0027il-vous-plaît"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2cb6397e-d3be-467c-a77a-d40c308c1248",
+      "data": [
+        {
+          "text": "oui s\u0027il-te-plaît"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "95174b02-2411-4cc5-9b78-b56498bd7ff2",
+      "data": [
+        {
+          "text": "oui stp"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2b68b068-8424-4f1e-ad72-b8599aa0c6f4",
+      "data": [
+        {
+          "text": "oui svp"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "67e6ee2c-de15-4b20-84a0-ca2ba21275f6",
+      "data": [
+        {
+          "text": "Oui s\u0027il vous plaît"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b2acd6e8-80e9-4c59-8055-ccf840aa6b94",
+      "data": [
+        {
+          "text": "Oui"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5cebafe0-cab2-48fa-afd7-6996b3eff229",
+      "data": [
+        {
+          "text": "Oui s\u0027il te plaît"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    }
+  ],
+  "id": "3856c3e5-8257-4039-9ac7-1a1ff19d9241",
+  "name": "Chatbot-sollicitation-user-need-help",
+  "auto": true,
+  "contexts": [
+    "context-sollicitation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "context-service-done",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "context-sollicitation",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Ok, dis moi comment puis-je t\u0027aider?",
+            "pas de soucis dis moi tout.",
+            "ça marche de quoi à tu besoin?",
+            "Pas de problème. Et ta besoin de quoi?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

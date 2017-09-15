@@ -1,0 +1,36 @@
+{
+  "userSays": [],
+  "id": "b4e844f8-98d5-4c45-9d48-684aca5be72b",
+  "name": "Ticket_fallback_context-ticket-reservation-reservation_intent",
+  "auto": false,
+  "contexts": [
+    "context-ticket-reservation-reservation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "context-ticket-reservation-reservation",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Excuse moi mais j\u0027ai juste besoin du nombre de tickets que tu aimerais s\u0027il te plaît (y)."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

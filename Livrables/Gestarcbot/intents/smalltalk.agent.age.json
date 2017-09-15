@@ -1,0 +1,222 @@
+{
+  "userSays": [
+    {
+      "id": "f48d51d5-0c6c-4d81-86f2-8afb788821bb",
+      "data": [
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " âge"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "00d5b622-98d8-49a7-b570-97bfed796873",
+      "data": [
+        {
+          "text": "quel "
+        },
+        {
+          "text": "âge",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " as-tu"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "efbece89-4be7-4d05-8420-76b9e9e45f26",
+      "data": [
+        {
+          "text": "quel "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "âge",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47a127d6-1cfa-42f4-8881-e55d83c711b8",
+      "data": [
+        {
+          "text": "c\u0027est quoi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " âge"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4874b129-321a-4a97-9555-515657325ab9",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "as",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " quel "
+        },
+        {
+          "text": "âge",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8c0b1419-def6-428c-a9a0-5c402237e9a1",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "as",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " quel âge"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5b288010-72e8-4c6a-97c2-02958f940908",
+      "data": [
+        {
+          "text": "as-tu "
+        },
+        {
+          "text": "19 ans",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1030ea72-af78-45b3-9c07-9ee9995878f1",
+      "data": [
+        {
+          "text": "est-ce que tu "
+        },
+        {
+          "text": "as",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "20 ans",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "103905c0-8a8d-4c8e-b2ca-6fa3655acfa9",
+      "data": [
+        {
+          "text": "quand as-tu été créé"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7e5613de-54de-41b2-924b-00e5564d4ee0",
+      "data": [
+        {
+          "text": "quand as-tu été créée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "f47d4a94-4503-4d09-a33c-01124ad8901d",
+  "name": "smalltalk.agent.age",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.age",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Je n\u0027ai pas vraiment d\u0027âge. Mais considère que je suis jeune d\u0027esprit.",
+            "Je suis un programme assez récent, mais plein de sagesse.",
+            "L\u0027âge n\u0027est qu\u0027un nombre. C\u0027est une histoire d\u0027état d\u0027esprit."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

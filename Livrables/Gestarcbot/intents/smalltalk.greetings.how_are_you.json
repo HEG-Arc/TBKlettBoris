@@ -1,0 +1,419 @@
+{
+  "userSays": [
+    {
+      "id": "3ba4cd3f-76be-45d2-8516-f59211f8b526",
+      "data": [
+        {
+          "text": "ça va"
+        }
+      ],
+      "isTemplate": false,
+      "count": 3
+    },
+    {
+      "id": "c8e9c566-8735-46ff-9e5f-c9c5ab053294",
+      "data": [
+        {
+          "text": "tu vas bien"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "624e6868-45ab-4bee-940a-6eefe0729a87",
+      "data": [
+        {
+          "text": "comment ça va"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "6423fa5d-afd3-47ce-b668-47783d0d7d99",
+      "data": [
+        {
+          "text": "vous allez bien"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "82c62d99-20d1-4c1c-a9b2-ff5e803876e4",
+      "data": [
+        {
+          "text": "vas tu bien"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f98daba7-1d04-4e22-8c19-ea132facdcb5",
+      "data": [
+        {
+          "text": "allez-vous bien"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f79573db-6ac3-4bf5-b7bf-1bce06b80b4f",
+      "data": [
+        {
+          "text": "comment vas-tu"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cf35a300-d246-41ba-a831-24f93eed0cab",
+      "data": [
+        {
+          "text": "comment allez-vous"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "304c20fc-199e-4e77-8c10-2fdb1a10b375",
+      "data": [
+        {
+          "text": "comment ça marche"
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
+    {
+      "id": "cee90ec7-c1d4-4603-86db-54f707977b00",
+      "data": [
+        {
+          "text": "comment ça roule"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2c8eb01b-b920-4085-8607-3bccfd4f1c13",
+      "data": [
+        {
+          "text": "comment ça baigne"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c99b5bd2-64bb-4639-bb16-68773b73e251",
+      "data": [
+        {
+          "text": "ça marche"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "529c6b50-3eaf-4c09-a68b-c66d9de749d5",
+      "data": [
+        {
+          "text": "ça roule"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a5b94fad-d53f-438b-ab24-9bcc03ccbd83",
+      "data": [
+        {
+          "text": "ça roule ma poule"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8241fc37-ba3e-4c83-8b16-307595568ca3",
+      "data": [
+        {
+          "text": "ça baigne"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fcd29f60-b9ff-47bc-8a0e-027a3a8c3f20",
+      "data": [
+        {
+          "text": "comment ca va"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a97e869d-8121-4d19-82ab-b9f16c7948c7",
+      "data": [
+        {
+          "text": "comment ca marche"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "84d7ece7-a39b-48f6-a2b9-bd008d923c3d",
+      "data": [
+        {
+          "text": "comment ca roule"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c7922af8-bdf0-4cdd-ac69-9334b3766c82",
+      "data": [
+        {
+          "text": "comment ca baigne"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "34a9e94e-4e5e-40d1-abc4-f490dd4088c7",
+      "data": [
+        {
+          "text": "ca va"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e0cbf1e9-8f4b-4b12-99c7-4993059c4597",
+      "data": [
+        {
+          "text": "ca marche"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f8691609-3f00-4538-b096-a482e5019aa9",
+      "data": [
+        {
+          "text": "ca roule"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a2765f51-88eb-4294-9f9d-678748ab704a",
+      "data": [
+        {
+          "text": "ca roule ma poule"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "584d3cb8-6ab0-4273-8d77-2c9088cdc8b7",
+      "data": [
+        {
+          "text": "ca baigne"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "86df0b99-98de-45b9-88af-03fa3b016b5a",
+      "data": [
+        {
+          "text": "sa va"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3db1a244-a37c-4a2b-bd2b-944f7dde55ae",
+      "data": [
+        {
+          "text": "sava"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a6b0701c-133f-4b1e-8064-16028111aa6f",
+      "data": [
+        {
+          "text": "sa marche"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ce017c90-2f60-4990-90f7-384c65102682",
+      "data": [
+        {
+          "text": "sa roule"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cf390802-6ee1-448a-8640-300a27ba52dd",
+      "data": [
+        {
+          "text": "sa roule ma poule"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "832634d3-d217-4e4e-9e41-5145069f7a5c",
+      "data": [
+        {
+          "text": "sa baigne"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7b5d0a85-e412-4f41-94b6-a716e6782c50",
+      "data": [
+        {
+          "text": "comment vous portez vous"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "172ad2ee-6694-4ca2-845d-c6d7d4486c38",
+      "data": [
+        {
+          "text": "comment te portes tu"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ebdfbb15-4e5e-4cf9-a237-51a9d44425af",
+      "data": [
+        {
+          "text": "comment te porte tu"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8d226d93-dd7f-434d-b064-c128e0a3021e",
+      "data": [
+        {
+          "text": "tu vas bien toi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 4
+    },
+    {
+      "id": "d0ff2dae-152a-4185-a1c5-e71b890efeb3",
+      "data": [
+        {
+          "text": "ça va mon ami"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "06ad7961-7445-4c78-8be4-78ce186fbec9",
+      "data": [
+        {
+          "text": "dis-moi tu vas bien"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "31d718f3-c1d2-4ac1-b544-661b948394c5",
+      "data": [
+        {
+          "text": "salut ça va"
+        }
+      ],
+      "isTemplate": false,
+      "count": 4
+    },
+    {
+      "id": "be32cff6-dffc-42e9-9b97-b2ea8d85b7d4",
+      "data": [
+        {
+          "text": "ça va ou pas finalement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    }
+  ],
+  "id": "f69743aa-7512-492d-8438-2d30e244688c",
+  "name": "smalltalk.greetings.how_are_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.how_are_you",
+      "affectedContexts": [
+        {
+          "name": "context-sollicitation-2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Je suis au meilleur de ma forme, merci ! et toi?",
+            "Ça va toujours ! et toi? Bien j\u0027espère !",
+            "Très bien, merci ! et toi ?",
+            "Super, comme toujours ! et toi? bien j\u0027espère !"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

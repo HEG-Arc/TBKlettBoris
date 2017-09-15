@@ -1,0 +1,29 @@
+{
+  "id": "a61eb40d-3f10-4d8b-ab36-b17dcde0372e",
+  "name": "userFirstname",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Boris",
+      "synonyms": [
+        "Boris",
+        "boris"
+      ]
+    },
+    {
+      "value": "Wilvie",
+      "synonyms": [
+        "Wilvie",
+        "wilvie"
+      ]
+    },
+    {
+      "value": "Jonathan",
+      "synonyms": [
+        "Jonathan"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

@@ -1,0 +1,376 @@
+{
+  "userSays": [
+    {
+      "id": "1bd341a0-42cf-4169-af0d-68ae89539186",
+      "data": [
+        {
+          "text": "qui",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "c",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "boss",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "81eed994-3460-4991-991d-aa6d428fa6c6",
+      "data": [
+        {
+          "text": "qui",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "c",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " chef"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f0861f7-c5ff-420b-a7ab-cd680711f4ed",
+      "data": [
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " chef "
+        },
+        {
+          "text": "c",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "qui",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " déjà"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "15bb838e-dba9-4de4-a083-47fc081dc40a",
+      "data": [
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " chef "
+        },
+        {
+          "text": "c",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "qui",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e8b005f8-0aab-446d-9bcc-aeb78cc09b73",
+      "data": [
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "boss",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "c",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "qui",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "582c1f87-896e-4d32-93f1-9843dd825dd5",
+      "data": [
+        {
+          "text": "c",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "qui",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "boss",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "20267a68-64f8-4f48-8b4b-dcec97658198",
+      "data": [
+        {
+          "text": "qui",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "boss",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b82f9b8c-2520-4a0c-a58f-86b1f21d444f",
+      "data": [
+        {
+          "text": "c",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "qui",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " chef"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "00767536-52cd-4cd6-b78d-d1de65a7d912",
+      "data": [
+        {
+          "text": "qui",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ton chef"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "04f8f276-bd66-49a0-931a-091fc85df717",
+  "name": "smalltalk.agent.boss",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.boss",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Mon donneur d\u0027ordres, c\u0027est toi.",
+            "Toi, bien sûr.",
+            "Tu le sais bien, chef !",
+            "Il me semble bien que ce soit toi."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

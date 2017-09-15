@@ -1,0 +1,99 @@
+{
+  "userSays": [
+    {
+      "id": "228fb204-b0ca-43bb-bc8a-646fec315c4f",
+      "data": [
+        {
+          "text": "Hey"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0cb3f12b-654c-49a8-acb7-fccb6152b3b5",
+      "data": [
+        {
+          "text": "Petite question"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6553b1cb-88cc-4546-b80d-ca6ff540e5e2",
+      "data": [
+        {
+          "text": "Hello"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "344fbecc-6b73-4bfe-9d3c-1df922597015",
+      "data": [
+        {
+          "text": "Coucou"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "530e8a6b-7caa-4a14-80c8-3544d4a32ceb",
+      "data": [
+        {
+          "text": "Salut"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6a0901f1-45f7-4df7-89b7-708242ac20a3",
+      "data": [
+        {
+          "text": "Bonjour"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "67430b8c-87bd-4d6a-9a36-674e5171637c",
+  "name": "Chatbot-sollicitation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "context-sollicitation",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Salut, je peux t\u0027aider?",
+            "Hello, comment puis-je t\u0027aider?",
+            "Hey coucou, je peux t\u0027aider?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,205 @@
+{
+  "userSays": [
+    {
+      "id": "ca9f6dcd-eede-411e-b982-ba654dd7eec1",
+      "data": [
+        {
+          "text": "la date de ta naissance"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c1ca3637-4743-4cb3-8be0-2b67de10ae18",
+      "data": [
+        {
+          "text": "donne-moi ta date de naissance"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eb444440-202c-44be-b0dc-f6ae5628cd39",
+      "data": [
+        {
+          "text": "dis-moi la date de "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " anniversaire"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3a86084e-7048-472a-8355-9ad3dd0375ce",
+      "data": [
+        {
+          "text": "la date de "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " anniv"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6fa8b8f-bebe-43e4-81f4-83c1398b576c",
+      "data": [
+        {
+          "text": "quelle est la date de ton anniv"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "babe124b-ea0e-4d25-9b27-069ae75be274",
+      "data": [
+        {
+          "text": "il est quand "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " anniversaire"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "845cb2d0-cdb0-4a79-a6a3-65c513be79ab",
+      "data": [
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " anniversaire c\u0027est quand"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2efce56e-266b-42b1-a993-420b32ae8931",
+      "data": [
+        {
+          "text": "с\u0027est quand "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " anniversaire"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3a018d0f-a7e3-4f61-a09f-8f8a32768ca4",
+      "data": [
+        {
+          "text": "quand est-ce que tu fêtes "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " anniversaire"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2ce1b9d8-4f03-4277-a68c-b4a52c14f9c6",
+      "data": [
+        {
+          "text": "quelle est ta date de naissance"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ba5e9ad-7993-42d0-91c2-a4837da2d0b4",
+      "data": [
+        {
+          "text": "quelle est la date de ta naissance"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "27b8fc06-350e-4bbb-a37d-2f6a094e6338",
+      "data": [
+        {
+          "text": "quand "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ton "
+        },
+        {
+          "text": "anniversaire",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "0b194775-1c2f-4331-94e4-2291954b148c",
+  "name": "smalltalk.agent.birth_date",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.birth_date",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Je n\u0027ai pas vraiment d\u0027anniversaire. Il faut être humain pour cela."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

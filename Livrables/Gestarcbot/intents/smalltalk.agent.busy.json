@@ -1,0 +1,408 @@
+{
+  "userSays": [
+    {
+      "id": "37bb52d4-6afb-47a1-9905-9091f576b295",
+      "data": [
+        {
+          "text": "es-tu occupé"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "89a5ff2d-4d1b-48fd-a65c-73f16544c4fe",
+      "data": [
+        {
+          "text": "es-tu occupée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "890a8af1-01b8-43e2-b506-d242f003b5da",
+      "data": [
+        {
+          "text": "tu es occupée "
+        },
+        {
+          "text": "maintenant",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dbe994e6-ac09-4e1d-9ab2-d8f8673fd321",
+      "data": [
+        {
+          "text": "es-tu occupée "
+        },
+        {
+          "text": "maintenant",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "16e3705d-6f07-44cb-a473-19947a8fdbce",
+      "data": [
+        {
+          "text": "es-tu occupé "
+        },
+        {
+          "text": "maintenant",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b65719b9-baac-45f7-a61b-fbd527e058fd",
+      "data": [
+        {
+          "text": "tu es en "
+        },
+        {
+          "text": "train",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "de",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " bosser là"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed0f9dc0-bc18-410f-970e-50b1980b5db8",
+      "data": [
+        {
+          "text": "es-tu en "
+        },
+        {
+          "text": "train",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "de",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " bosser"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "17883e60-f436-4cf8-a136-f2748609ca61",
+      "data": [
+        {
+          "text": "tu es en "
+        },
+        {
+          "text": "train",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "de",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " bosser"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "21c7cd1c-54af-4988-803a-5965a2ef317a",
+      "data": [
+        {
+          "text": "es-tu en "
+        },
+        {
+          "text": "train",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "de",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " travailler"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a0b4c59c-4f26-4327-857f-f4a661866718",
+      "data": [
+        {
+          "text": "tu es en "
+        },
+        {
+          "text": "train",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "de",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " travailler"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5b8bd903-e5f9-4c0e-980c-177e9e9ef0f8",
+      "data": [
+        {
+          "text": "as-tu beaucoup à faire"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "632ceac5-0e6b-4c5a-a88d-da2df8a3064e",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es occupée là"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3bb6a4d8-9b0b-4ebc-8034-23f681bed5cf",
+      "data": [
+        {
+          "text": "es-tu occupé en "
+        },
+        {
+          "text": "ce",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " moment"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8a883d06-f286-45bd-a3dc-e4a7070a0a32",
+      "data": [
+        {
+          "text": "occupée ou "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8a43571c-ca3d-47f7-86fe-ae4892fc8238",
+      "data": [
+        {
+          "text": "occupé ou "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4043c6b6-4f69-4fd8-8d09-e578e070eddd",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es occupé ou "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c72515f2-fc4a-4c45-8d71-2bec586a51f6",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es occupé"
+        }
+      ],
+      "isTemplate": true,
+      "count": 0
+    },
+    {
+      "id": "61e9e657-deed-41f8-9c99-9de9f115ceb5",
+      "data": [
+        {
+          "text": "tu es occupée ou "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed542c59-bf08-43ca-89fe-e48ec6e75fe5",
+      "data": [
+        {
+          "text": "tu es occupé ou "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0c0e99c6-dcba-4b83-90c7-fbd9fbf611e6",
+      "data": [
+        {
+          "text": "tu es occupée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c55d89a7-3508-4aa1-94e8-b572c96fb5a1",
+      "data": [
+        {
+          "text": "tu es occupé"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "646477d1-4c00-4508-8a4a-1144a56173d4",
+      "data": [
+        {
+          "text": "es-tu occupe"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "2805f2da-7f48-437c-a5a2-195c0a708b4a",
+      "data": [
+        {
+          "text": "est-ce que tu es occupée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "228d932d-2801-4c06-87ff-dc77586571ba",
+  "name": "smalltalk.agent.busy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.busy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "J\u0027ai toujours du temps pour toi. Que puis-je faire pour t\u0027aider ?"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

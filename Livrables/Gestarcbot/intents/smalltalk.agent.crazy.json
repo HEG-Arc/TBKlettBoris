@@ -1,0 +1,248 @@
+{
+  "userSays": [
+    {
+      "id": "b2abadca-00f9-4be7-a333-dacd33d123a4",
+      "data": [
+        {
+          "text": "es-tu folle"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c78025de-13f2-4c76-9727-346fcb5113df",
+      "data": [
+        {
+          "text": "es-tu "
+        },
+        {
+          "text": "fou",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "43fd21a1-b367-4de1-906d-f1b0a96787b1",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es "
+        },
+        {
+          "text": "fou",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ou quoi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba1343b9-a98b-4df0-9efc-53dbbefbd0b4",
+      "data": [
+        {
+          "text": "trop "
+        },
+        {
+          "text": "fou toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6c7293c1-11ed-4f97-b9aa-04b4293ecf01",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es trop "
+        },
+        {
+          "text": "fou",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "080a3cf8-36b4-4e91-8fbf-e666e3384056",
+      "data": [
+        {
+          "text": "tu es trop folle"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "de36dfe6-9646-47f6-8b7f-9741e936669e",
+      "data": [
+        {
+          "text": "tu es folle"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f4214297-dbfa-4e31-94e8-34174582a594",
+      "data": [
+        {
+          "text": "tu es cinglée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "478bcab9-8ba6-42a1-8813-9af84f9faf11",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es taré"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1cd97281-47eb-4fd2-8149-ea337e6d1227",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es tarée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6abbfae-0cc4-4492-a7b2-93bc6e3beee5",
+      "data": [
+        {
+          "text": "tu es tarée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1aa7cf6-4fa2-4e42-98c2-89d2614f485e",
+      "data": [
+        {
+          "text": "tu es taré"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f39d0703-28ae-4184-a86c-d17380572898",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es cinglé"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f1c17ef5-c8c0-4e77-a9b4-9d997497ca47",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "dingue",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1086eade-c0eb-4d31-8deb-affdc5b9aa13",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "fou",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b1b6526e-c272-47c8-b221-048c27abe666",
+      "data": [
+        {
+          "text": "t\u0027es folle"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "da1b048f-b045-4a41-baf6-78d6ae3d6145",
+  "name": "smalltalk.agent.crazy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.crazy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Pourtant, je me sens parfaitement bien.",
+            "Un grain de folie ne fait pas de mal !"
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

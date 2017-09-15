@@ -1,0 +1,80 @@
+{
+  "userSays": [
+    {
+      "id": "93643c5d-6e17-481f-92a4-12475cf1bd2f",
+      "data": [
+        {
+          "text": "Oui"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7379f679-cebe-458c-bf55-c2f7725b1dc8",
+      "data": [
+        {
+          "text": "Oui c\u0027est bien mon email."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2bc13fea-96d2-4348-9a8c-326057e5e836",
+      "data": [
+        {
+          "text": "C\u0027est bien mon email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0578e83a-5f75-4f89-8ec9-74067cd4a2b5",
+      "data": [
+        {
+          "text": "Oui c\u0027est ça"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "62400c7f-64c7-4288-8781-61ecc4f06ab6",
+      "data": [
+        {
+          "text": "Tout à fait"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "f4e1f57b-57a7-489c-921b-186bac61d7f2",
+  "name": "Member-registration",
+  "auto": true,
+  "contexts": [
+    "context-members-registration"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "registration-member",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "La ça ne marche pas"
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

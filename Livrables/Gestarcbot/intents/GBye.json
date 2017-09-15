@@ -1,0 +1,70 @@
+{
+  "userSays": [
+    {
+      "id": "863077b1-9787-4661-9455-a52e8477642a",
+      "data": [
+        {
+          "text": "non"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6cf97723-03a3-418c-a31f-7af1fd6d8bf6",
+      "data": [
+        {
+          "text": "non merci"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e23220de-568a-41a0-a16c-3df895b40ac7",
+      "data": [
+        {
+          "text": "Non c\u0027est tout bon merci"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a45826ea-6a29-4fd5-af37-c87600d7f0ce",
+      "data": [
+        {
+          "text": "Pas besoin merci"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "8d7855b7-130a-414a-90ce-2d6eaae71ece",
+  "name": "GBye",
+  "auto": true,
+  "contexts": [
+    "context-service-done"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "salutations",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

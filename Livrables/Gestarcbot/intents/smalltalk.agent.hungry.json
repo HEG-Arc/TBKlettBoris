@@ -1,0 +1,203 @@
+{
+  "userSays": [
+    {
+      "id": "775982bc-e4ce-4a2b-b386-776e2cc6ee79",
+      "data": [
+        {
+          "text": "tu as faim"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "22b78072-4d8d-4807-b6a2-7a778c02b6c0",
+      "data": [
+        {
+          "text": "voudrais-tu manger"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed4d688d-d047-4396-9fc3-3016d1e110f6",
+      "data": [
+        {
+          "text": "est-ce que tu "
+        },
+        {
+          "text": "as",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " faim"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d3069cfe-bb24-4696-8136-aa4db7964806",
+      "data": [
+        {
+          "text": "veux-tu manger"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "8872f625-28c7-4463-82bb-789414f1b2b5",
+      "data": [
+        {
+          "text": "as-tu "
+        },
+        {
+          "text": "faim",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cf46c0c1-a336-4858-9157-8cefedeb5908",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "as",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "faim",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c8e708d8-b25e-460d-bc68-f759d23ac285",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "as",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "faim",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "94afa732-8819-4c73-b928-ae281946c640",
+      "data": [
+        {
+          "text": "tu veux manger là"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "196a7ced-3704-403e-a30c-de123d892ac3",
+      "data": [
+        {
+          "text": "aimerais-tu manger "
+        },
+        {
+          "text": "maintenant",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e9b6547b-2bf4-41cc-9ebe-66000f1efb6f",
+      "data": [
+        {
+          "text": "tu voudrais manger"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "047a5098-a727-4c7f-9127-d95df40a11ba",
+      "data": [
+        {
+          "text": "tu veux manger"
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    }
+  ],
+  "id": "65e21d0e-5902-4d31-a191-f6ce254a21a7",
+  "name": "smalltalk.agent.hungry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.hungry",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Je n\u0027ai ni faim ni soif.",
+            "Non, je ne ressens pas la faim.",
+            "J\u0027ai faim de savoir et je me rassasie en t\u0027apportant mon aide."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

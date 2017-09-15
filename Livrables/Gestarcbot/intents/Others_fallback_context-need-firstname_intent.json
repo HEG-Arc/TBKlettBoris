@@ -1,0 +1,36 @@
+{
+  "userSays": [],
+  "id": "3c619886-8d68-4f7f-8044-400cd0bb4ae2",
+  "name": "Others_fallback_context-need-firstname_intent",
+  "auto": false,
+  "contexts": [
+    "context-need-firstname"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "context-need-firstname",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Je vais peut-être un peut me répéter je m\u0027en excuse mais tu sais je suis un robot conversationnel encore en phase expérimentale, du coup je ne parviens pas toujours à tout comprendre. Là en fait j\u0027ai juste besoin de ton prénom c\u0027est important pour moi pour contrôler si tu existe déjà dans notre base de données. Je sais pas tu peux mettre mon prénom c\u0027est tel ou tel est mon prénom. mais j\u0027en ai besoin stp"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

@@ -1,0 +1,143 @@
+{
+  "userSays": [
+    {
+      "id": "4fd8ec66-d202-420b-a636-95f32f414228",
+      "data": [
+        {
+          "text": "quelles origines as-tu"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "01022f05-1c14-4341-81b7-9f801047c4fb",
+      "data": [
+        {
+          "text": "quelles sont tes origines"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7150f27-9666-460c-b74c-2036722088cf",
+      "data": [
+        {
+          "text": "c\u0027est quoi "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " pays d\u0027origine"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d976e87b-a71a-4d52-8426-c12d0fe9dacf",
+      "data": [
+        {
+          "text": "d\u0027où tu viens"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b99e3799-bafb-468b-a5d6-ff020af62a95",
+      "data": [
+        {
+          "text": "dis-moi d\u0027où tu viens"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d8814019-3db9-436e-bcc3-53dc9fabf163",
+      "data": [
+        {
+          "text": "quel est "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " pays d\u0027origine"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5941b463-4880-445b-98fb-78c8de22ec6f",
+      "data": [
+        {
+          "text": "d\u0027où est-ce que tu viens"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "24325e88-4fc6-478a-b904-5cdba78283f0",
+      "data": [
+        {
+          "text": "d\u0027où es-tu"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a8927995-93dc-4fcf-a332-f3db8277d042",
+      "data": [
+        {
+          "text": "d\u0027où viens-tu"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1185a12e-984c-4cf3-9a46-6c4cb5ae6f07",
+      "data": [
+        {
+          "text": "tu es d\u0027où"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "f8b3e405-7339-4ea2-9cea-ee49bb107f7a",
+  "name": "smalltalk.agent.origin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.origin",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Je n\u0027ai pas de maison géographiquement parlant."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

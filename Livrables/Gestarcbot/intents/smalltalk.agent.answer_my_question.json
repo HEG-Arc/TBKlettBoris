@@ -1,0 +1,199 @@
+{
+  "userSays": [
+    {
+      "id": "3000d8f7-464b-4673-8e53-e11744a65d96",
+      "data": [
+        {
+          "text": "j\u0027ai "
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " question"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "74147743-4066-4de4-8c77-94d230984830",
+      "data": [
+        {
+          "text": "il me faut "
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " réponse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c4560e2c-d0d9-4f40-9786-c525bc2d5cf3",
+      "data": [
+        {
+          "text": "j\u0027ai besoin d\u0027"
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " réponse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9be920b9-bfe3-48a2-8760-520491753333",
+      "data": [
+        {
+          "text": "donne "
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " réponse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e9010672-e7d5-46f0-913f-876c69dc2c98",
+      "data": [
+        {
+          "text": "réponds"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f088e796-181f-4c29-bc14-b443d72ebb2a",
+      "data": [
+        {
+          "text": "donne-moi "
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " réponse à ma question"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2688c264-224d-460c-8805-4d46d909c76c",
+      "data": [
+        {
+          "text": "peux-tu me donner "
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " réponse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "79e40bac-68f5-42e6-bb29-e013474af289",
+      "data": [
+        {
+          "text": "je voudrais que tu me répondes"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d14fcab9-9a35-4c9a-a0a7-d1b584019063",
+      "data": [
+        {
+          "text": "merci de répondre"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ce16a6c5-5090-4f50-92df-54b22c778cb9",
+      "data": [
+        {
+          "text": "réponds-moi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "673ee8e1-4d26-4913-9cf3-f76335757e83",
+      "data": [
+        {
+          "text": "peux-tu le répondre"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f7c88349-3228-4ba9-a41d-c9decb8ae52d",
+      "data": [
+        {
+          "text": "réponds à la question"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "d29d077f-eb36-42ee-af0b-9b56cd29d239",
+  "name": "smalltalk.agent.answer_my_question",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.answer_my_question",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Avec plaisir. Mais peux-tu répéter la question avant ?",
+            "Une question, quelle question ?",
+            "Je n\u0027ai pas compris ta question. Peux-tu la répéter ?"
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,154 @@
+{
+  "userSays": [
+    {
+      "id": "f5ba40fa-f0ed-42d8-bc6d-621d11d28df1",
+      "data": [
+        {
+          "text": "Oui réserver un billet pour un évènement s\u0027il te plait"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d72d5382-4abc-407c-8444-ba05c029cb44",
+      "data": [
+        {
+          "text": "Oui stp, j\u0027aimerais réserver "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " billet pour "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b8dd707-9b4b-45c8-aae0-e2a45d8143ad",
+      "data": [
+        {
+          "text": "J\u0027aimerais réserver des tickets."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6df6deaa-1030-4ad3-836f-40ed63174ef8",
+      "data": [
+        {
+          "text": "Réserver des ticket s\u0027il te plaît."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "368168a9-fc32-4797-9061-ac25ec51f3c2",
+      "data": [
+        {
+          "text": "Oui, j\u0027aimerais faire des réservations."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "069cd0a7-376a-4c91-b114-8959063e5831",
+      "data": [
+        {
+          "text": "J\u0027aimerais réserver des places pour "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9c2c9c6a-ba72-4d9c-943d-953b5ea05575",
+      "data": [
+        {
+          "text": "Est ce que c\u0027est possible de réserver des tickets pour "
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " soirée?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "f285930a-5fc0-4aab-ac44-bc67773c9be7",
+  "name": "Ticket_reservation_serviceChoice",
+  "auto": true,
+  "contexts": [
+    "context-sollicitation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "context-general",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "context-sollicitation",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "name": "serviceName",
+          "value": "ticket"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Oui bien sûr, pour quel événement? est-ce que tu peux me donner le nom de l’événement s\u0027il te plaît ?",
+            "Pas de soucis, mais est-ce que tu pourrais juste me donner le nom de l’événement s’il te plaît ?",
+            "Ça marche, donne-moi juste le nom de l’événement s’il te plaît.",
+            "Ok, tu sais le nom de l’événement ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

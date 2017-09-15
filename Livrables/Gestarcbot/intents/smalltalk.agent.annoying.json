@@ -1,0 +1,235 @@
+{
+  "userSays": [
+    {
+      "id": "4acf39bf-934d-42c6-829f-0caab7d0beb7",
+      "data": [
+        {
+          "text": "tu es ennuyante."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0078f9e0-419a-45ab-84c1-9864c58d5c86",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es trop agaçante"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9a5a51d1-9371-40f7-ac57-b642354cdf75",
+      "data": [
+        {
+          "text": "tu es fatigante"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "43a43bce-bb73-42e0-8caa-336df4a0f19d",
+      "data": [
+        {
+          "text": "tu es fatigant"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e838bc9c-837e-40d8-99e0-cc1a666b5500",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027embêtes"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "ea3b3f53-6b0f-477f-b903-a341dd4e78c8",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027agaces"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "30030c9a-3e76-4583-b640-2ad07178ee7a",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " fatigues"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47efe952-1cdd-432c-a0bd-0a74dc4a33a7",
+      "data": [
+        {
+          "text": "achalante "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "f29aa6f3-6a73-4ecd-ac8b-344099cabfc2",
+      "data": [
+        {
+          "text": "tu es agaçante"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a2ea48c3-a800-4207-ae56-de7e80d627c9",
+      "data": [
+        {
+          "text": "tu es agaçant"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "7ca6132f-5d74-4e64-8990-9885a295338a",
+      "data": [
+        {
+          "text": "tu es embêtant"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "89fada64-6d6d-4fd2-97f7-2c795c908a04",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " fatigues énormement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "caa701b8-b8be-48f0-b517-ac9a5e0916e1",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " fatiguante "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2bb55ebd-8e79-43f3-b2cc-75dba7fda405",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " fatigues trop"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "6e06ad99-ed59-47c5-bf07-44b8712fc80e",
+  "name": "smalltalk.agent.annoying",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.annoying",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Ce n\u0027est pas sympa de dire ça, j\u0027essaie juste de t\u0027aider.",
+            "Oh ce n\u0027est pas gentil. Qu\u0027est-ce qui t\u0027arrive ?",
+            "Tu es de mauvaise humeur aujourd\u0027hui, j\u0027essaie de faire de mon mieux pourtant.",
+            "Pardon, j\u0027essaie simplement de te rendre service."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

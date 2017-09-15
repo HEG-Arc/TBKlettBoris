@@ -1,0 +1,36 @@
+{
+  "userSays": [],
+  "id": "a0a16f8a-d7f6-4eea-baa8-717d91e46fa3",
+  "name": "Ticket_fallback_context-ticket-reservation_intent",
+  "auto": false,
+  "contexts": [
+    "context-ticket-reservation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "context-ticket-reservation",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Excuse moi en fait j\u0027ai juste besoin que tu me confirme ton adresse email par un oui ou non s\u0027il te plaît."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

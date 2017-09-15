@@ -1,0 +1,80 @@
+{
+  "userSays": [
+    {
+      "id": "666b6176-a544-4dc7-90d8-398f19e196c3",
+      "data": [
+        {
+          "text": "Ok merci"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dac2c125-ec4e-4e6c-a47f-0edeca2a6725",
+      "data": [
+        {
+          "text": "Ok ça marche merci"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "376f54f8-2bd0-4364-966f-57e32dcd85dc",
+      "data": [
+        {
+          "text": "merci"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dab8e4f7-ca32-4b09-a3ea-6fdab683ebe8",
+      "data": [
+        {
+          "text": "Cool merci"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "58b0dfb9-5fc3-4726-a133-de9eb407508f",
+      "data": [
+        {
+          "text": "Merci beaucoup"
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    }
+  ],
+  "id": "87b8750c-5029-4b08-91fa-6d476dea76f7",
+  "name": "Greatings_with_thankful",
+  "auto": true,
+  "contexts": [
+    "context-service-done"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user-thank",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

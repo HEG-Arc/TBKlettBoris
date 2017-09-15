@@ -1,0 +1,85 @@
+{
+  "id": "b7965485-f11b-419f-9273-f4896c40c778",
+  "name": "needed_information",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "heures",
+      "synonyms": [
+        "Horaires",
+        "heure",
+        "Heures",
+        "horaire",
+        "Horaire",
+        "horaires"
+      ]
+    },
+    {
+      "value": "theme",
+      "synonyms": [
+        "thème",
+        "Thème",
+        "Theme"
+      ]
+    },
+    {
+      "value": "prix",
+      "synonyms": [
+        "Prix",
+        "combien",
+        "Combien",
+        "gratuit",
+        "gratuits",
+        "gratuite",
+        "gratuites",
+        "payant",
+        "payants",
+        "payante",
+        "payantes"
+      ]
+    },
+    {
+      "value": "lieu",
+      "synonyms": [
+        "Lieu",
+        "où"
+      ]
+    },
+    {
+      "value": "nom",
+      "synonyms": [
+        "Titre",
+        "Nom"
+      ]
+    },
+    {
+      "value": "genre",
+      "synonyms": [
+        "Style",
+        "style",
+        "Genre",
+        "type",
+        "Type"
+      ]
+    },
+    {
+      "value": "photos",
+      "synonyms": [
+        "tofs",
+        "Photos",
+        "Photo"
+      ]
+    },
+    {
+      "value": "date",
+      "synonyms": [
+        "Date",
+        "jour",
+        "Jour",
+        "Quand"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

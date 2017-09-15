@@ -1,0 +1,37 @@
+{
+  "userSays": [],
+  "id": "05ce81fc-7d9d-4e7d-b9d2-091871f446c3",
+  "name": "Others_Fallback_context-others-services_intent",
+  "auto": false,
+  "contexts": [
+    "context-others-services"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "context-others-services",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Je m\u0027excuse mais tu sais je suis un robot conversationnel encore en phase expérimentale, du coup je ne parviens pas toujours à tout comprendre. J\u0027ai juste besoin de ton nom de famille c\u0027est important pour moi pour juste checker si je peux aller plus loin. Je sais pas tu peux mettre je m\u0027appelle tel ou mon nom est tel. mais j\u0027en ai besoin stp"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

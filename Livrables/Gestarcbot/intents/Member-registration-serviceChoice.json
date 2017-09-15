@@ -1,0 +1,233 @@
+{
+  "userSays": [
+    {
+      "id": "b039f66b-b5e1-4344-8e35-7f82df17d4c0",
+      "data": [
+        {
+          "text": "membre de l\u0027association"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "20102945-e3d6-4f95-86a0-72182d04ff7a",
+      "data": [
+        {
+          "text": "membre de votre association"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "db1dc0d5-c1e2-4a10-ae86-8b8131a263aa",
+      "data": [
+        {
+          "text": "devenir membre de la Ges\u0027arc"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4ec0cba5-1767-43e4-a04b-8e1e03ca360e",
+      "data": [
+        {
+          "text": "je souhaiterais devenir membre"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1e363894-c7a2-4e42-bb27-6a22ccebbfd6",
+      "data": [
+        {
+          "text": "inscrire"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "996768fa-0a58-437b-9d72-a2efd5706377",
+      "data": [
+        {
+          "text": "je souhaiterais m\u0027inscrire"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a3e15144-84ce-4de6-ae2b-c52c241dfeff",
+      "data": [
+        {
+          "text": "oui stp, je veux devenir membre de la Gest\u0027arc"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "606f164f-cc65-48c2-9633-760f7b18eb74",
+      "data": [
+        {
+          "text": "oui s\u0027il-te-plait, j\u0027aimerais savoir comment faire pour devenir membre de "
+        },
+        {
+          "text": "la Gest\u0027arc",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3ec4a2a4-87f4-407c-b71a-ae54e90e80a0",
+      "data": [
+        {
+          "text": "Oui j\u0027aimerais savoir comment faire pour devenir membre de "
+        },
+        {
+          "text": "la Gest\u0027arc",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "41ba39ed-7575-4755-aae7-99e360aff2cf",
+      "data": [
+        {
+          "text": "J\u0027aimerais devenir membre de "
+        },
+        {
+          "text": "la Gest\u0027arc",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "294a515e-69cc-4cbf-b9a0-d9cc15261a71",
+      "data": [
+        {
+          "text": "J\u0027aimerais adhérer à votre association"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9468f485-9215-4d6d-a5a6-42c69f95db47",
+      "data": [
+        {
+          "text": "J\u0027aimerais devenir "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " de vos membres"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bba06adc-9391-4cdd-986e-bbd054685e54",
+      "data": [
+        {
+          "text": "J\u0027aimerais bosser avec "
+        },
+        {
+          "text": "la Gest\u0027arc",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "57ab382c-b52a-4079-92ab-89656f85337c",
+      "data": [
+        {
+          "text": "c\u0027est possible de m\u0027inscrire pour devenir membre de "
+        },
+        {
+          "text": "la Gest\u0027arc",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "f50e2872-7867-4638-b6ab-77491a661319",
+  "name": "Member-registration-serviceChoice",
+  "auto": true,
+  "contexts": [
+    "context-sollicitation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "context-others-services",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "context-sollicitation",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "name": "serviceName",
+          "value": "inscription"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Ok pas de problème. Alors si ça t’intéresse, j’aurai juste besoin de ton nom famille s\u0027il te plaît.",
+            "Ok. Il me faudrait juste ton nom famille.",
+            "Pas de soucis! du coup, c\u0027est quoi ton nom de famille?",
+            "Un instant s\u0027il te plaît, je regarde ça. Quel est ton nom de famille?",
+            "Ok. Tu pourrais juste me dire ton nom de famille? s\u0027il te plaît."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

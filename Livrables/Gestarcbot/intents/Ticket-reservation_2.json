@@ -1,0 +1,761 @@
+{
+  "userSays": [
+    {
+      "id": "07cbdf14-b382-4415-8c39-b49abae2543a",
+      "data": [
+        {
+          "text": " j\u0027aurais voulu acheter des billets pour "
+        },
+        {
+          "text": "la présentation",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "df68e3d9-d6ec-41f9-b53a-b17ef3fc137c",
+      "data": [
+        {
+          "text": "acheter des billets pour "
+        },
+        {
+          "text": "la présentation",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "89f08bf5-bd97-4fdd-befd-47671ac6d785",
+      "data": [
+        {
+          "text": "prendre des billets pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9ffe8deb-8c65-461e-9fe2-9fc8a8386043",
+      "data": [
+        {
+          "text": "prendre des tickets pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "46f32d35-0ca7-42a3-9a75-49d4c2e0fd9c",
+      "data": [
+        {
+          "text": "prendre des places pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "673990ec-52f5-4c40-9b5f-8f5e4888d7a2",
+      "data": [
+        {
+          "text": "acheter des billets d\u0027entrer pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cb8703dc-cd22-4427-91c9-3ab59309248d",
+      "data": [
+        {
+          "text": "acheter des billets pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "db9c6594-db34-48d5-9fba-db46f72910ff",
+      "data": [
+        {
+          "text": "acheter des places pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1dc5c1b-387a-4955-988f-eb0b1fac096f",
+      "data": [
+        {
+          "text": "acheter des tickets d\u0027entrer pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1e123668-9620-4b8c-ba21-f8ef311ba968",
+      "data": [
+        {
+          "text": "acheter des tickets pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0c1c90a2-e360-4971-b89a-fca68cb72307",
+      "data": [
+        {
+          "text": "réserver des places pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5eff4da5-0a4e-47fe-8ba2-a4acd728514f",
+      "data": [
+        {
+          "text": "réserver des billets d\u0027entrer pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "de9eef86-e368-4864-bd57-9d453f585080",
+      "data": [
+        {
+          "text": "réserver des billets pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e168c11b-ae3f-4240-92d4-f3e4281e52e2",
+      "data": [
+        {
+          "text": "réserver des tickets d\u0027entrer pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "45e31101-1399-4b15-9493-c271d61f7c82",
+      "data": [
+        {
+          "text": "réserver des tickets pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "935ae1a4-f70e-4f8f-bada-c167594599b2",
+      "data": [
+        {
+          "text": "réserver les billets pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "cf889ec8-dcbc-4a12-8d92-41ab2eb6ec80",
+      "data": [
+        {
+          "text": "réserver des tikets pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 5
+    },
+    {
+      "id": "d6bb0df8-c9e8-4c75-af99-f837c3f7b9b2",
+      "data": [
+        {
+          "text": "acheter "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " billet d\u0027entrer pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c970f5ab-efc4-4d20-b0a3-0967e2165fe2",
+      "data": [
+        {
+          "text": "acheter "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " ticket d\u0027entrer pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "285e9e83-3919-415a-bc89-26489cf9572a",
+      "data": [
+        {
+          "text": "acheter "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " ticket pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9f0af391-8100-4a43-99fe-e2f2df014588",
+      "data": [
+        {
+          "text": "acheter "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " billet pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "235f07d4-da67-49ac-a239-e1f81a770044",
+      "data": [
+        {
+          "text": "prendre "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " billet pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "63e1abec-fd4e-4fc7-affb-1e887336d0f9",
+      "data": [
+        {
+          "text": "prendre "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " ticket pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "30a3ce06-eddf-47ea-9e4b-327a9d488d4c",
+      "data": [
+        {
+          "text": "réserver "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " place pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6d65b74a-e4cf-431a-b265-d2bf53c620fd",
+      "data": [
+        {
+          "text": "réserver "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " place"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "82cc731c-d1e2-4e35-90c6-327f98ca4c75",
+      "data": [
+        {
+          "text": "prendre "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "320fc63a-d389-4468-af89-a2ad5e2f0ded",
+      "data": [
+        {
+          "text": "acheter "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0900c0fa-a958-400f-8f67-0c2609e57160",
+      "data": [
+        {
+          "text": "réserver "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "21b0bf98-0564-4667-99dd-0344405d7d6c",
+      "data": [
+        {
+          "text": "prendre "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " billet"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fd036ee3-13e1-44aa-90b3-03a577b217ff",
+      "data": [
+        {
+          "text": "acheter "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " billet"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a4a241e3-192a-4cea-8871-944bdf034608",
+      "data": [
+        {
+          "text": "réserver "
+        },
+        {
+          "text": "1",
+          "alias": "number_of_tickets",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " billet"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "076ae154-53a5-4c2c-9663-e97b7e6bfc6f",
+      "data": [
+        {
+          "text": "réserver les tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8aa2aff5-4dbb-4171-8807-c376834084a1",
+      "data": [
+        {
+          "text": "prendre les tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c3e360ab-823f-4ae3-8871-7b0515a4ba9e",
+      "data": [
+        {
+          "text": "réserver les places"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aaa92794-f971-41d7-8d41-557ca6e21b11",
+      "data": [
+        {
+          "text": "réserver des places"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "034b976c-48fa-48b7-b909-31fc340256ef",
+      "data": [
+        {
+          "text": "prendre des tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "887e04c1-601f-478f-bf93-66a0c284404b",
+      "data": [
+        {
+          "text": "réserver des tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7dfe4229-56d8-414c-b21f-e609d8b407f0",
+      "data": [
+        {
+          "text": "acheter des tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2cd85eb1-47d7-49c0-a653-7695463cb808",
+      "data": [
+        {
+          "text": "prendre les billets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f462ccc-98f2-46be-9ba2-42a413e98683",
+      "data": [
+        {
+          "text": "prendre des billets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e2584d5f-32c3-4151-83b4-fae70ea6e9e6",
+      "data": [
+        {
+          "text": "acheter des billets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a4983635-af50-4ad0-a353-15424f7fcbdb",
+      "data": [
+        {
+          "text": "réserver des billets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8fd9ee14-1b26-450e-8782-d2106eabfbfd",
+      "data": [
+        {
+          "text": "réserver les billets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b4f368b-c189-43be-8f2e-aa98bb584eed",
+      "data": [
+        {
+          "text": "acheter les billets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "a157ef4f-ca5f-4780-b3b4-6cf37e597068",
+  "name": "Ticket-reservation_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "direct-ticket-choice",
+      "affectedContexts": [
+        {
+          "name": "context-others-services",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@sys.number",
+          "name": "number_of_tickets",
+          "value": "$number_of_tickets",
+          "isList": false
+        },
+        {
+          "dataType": "@eventName",
+          "name": "eventName",
+          "value": "$eventName",
+          "isList": false
+        },
+        {
+          "name": "serviceName",
+          "value": "directTicket"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

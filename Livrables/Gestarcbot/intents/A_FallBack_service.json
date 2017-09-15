@@ -1,0 +1,36 @@
+{
+  "userSays": [],
+  "id": "8e5f66e9-cc8c-45fa-aa00-201994d60e0b",
+  "name": "A_FallBack_service",
+  "auto": false,
+  "contexts": [
+    "context-sollicitation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "context-sollicitation",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Excuse moi tu sais je suis un chatbot encore en phase expérimentale, du coup je ne parviens pas toujours à tout comprendre. En fait j\u0027ai juste besoin de savoir là, si tu as besoin d\u0027une information sur un évènement, si tu as besoin de réserver des tickets pour un évènement ou alors si tu veux devenir membre de notre association."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

@@ -1,0 +1,168 @@
+{
+  "userSays": [
+    {
+      "id": "0b580e4f-97d5-4600-b2c9-565205414bc6",
+      "data": [
+        {
+          "text": "Fivaz",
+          "alias": "userName",
+          "meta": "@userName",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8a85fc1d-070b-41c7-9d2d-d0c1314fe4fc",
+      "data": [
+        {
+          "text": "c\u0027est "
+        },
+        {
+          "text": "Klett",
+          "alias": "userName",
+          "meta": "@userName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a40669e9-4989-4b97-9ef2-f342903eb121",
+      "data": [
+        {
+          "text": "Klett",
+          "alias": "userName",
+          "meta": "@userName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bb51a506-ba0e-436b-932a-5bbce0cac4ef",
+      "data": [
+        {
+          "text": "Je m\u0027appelle "
+        },
+        {
+          "text": "Bakouloukila",
+          "alias": "userName",
+          "meta": "@userName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "af979c6a-36c2-4e87-a2b5-e9ec6217a84c",
+      "data": [
+        {
+          "text": "Mon "
+        },
+        {
+          "text": "nom",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " est "
+        },
+        {
+          "text": "Klett",
+          "alias": "userName",
+          "meta": "@userName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ff49d82-f989-4176-ac5b-9e991ea8520c",
+      "data": [
+        {
+          "text": "Je suis "
+        },
+        {
+          "text": "Bakoukoukila",
+          "alias": "userName",
+          "meta": "@userName",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29742b1c-0b35-4d60-8dd1-848b0827f9e4",
+      "data": [
+        {
+          "text": "Klett",
+          "alias": "userName",
+          "meta": "@userName",
+          "userDefined": false
+        },
+        {
+          "text": " c\u0027est mon "
+        },
+        {
+          "text": "nom",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "a7bcfc6b-9ceb-4483-9ea9-f36f20556d68",
+  "name": "Others-services-user-lastname",
+  "auto": true,
+  "contexts": [
+    "context-others-services"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get-user-by-lastname",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@userName",
+          "name": "userName",
+          "value": "$userName",
+          "prompts": [
+            "c\u0027est comment ton nom de famille?"
+          ],
+          "isList": false
+        },
+        {
+          "name": "eventName",
+          "value": "#context-others-services.eventName"
+        },
+        {
+          "name": "serviceName",
+          "value": "#context-others-services.serviceName"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "ça ne marche pas"
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

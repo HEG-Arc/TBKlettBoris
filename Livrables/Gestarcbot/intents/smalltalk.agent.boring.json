@@ -1,0 +1,213 @@
+{
+  "userSays": [
+    {
+      "id": "c28aaca5-623f-4af2-92cd-6146e2d9fe6b",
+      "data": [
+        {
+          "text": "tu m\u0027ennuies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cb58ae53-c640-4295-9219-a5bbc379f4ec",
+      "data": [
+        {
+          "text": "super",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ennuyeuse "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7d597279-6dbb-478b-8bc4-c3904431c9c6",
+      "data": [
+        {
+          "text": "tu es carrément ennuyeuse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e4f3339-cfe4-4af5-97da-d428913f83d3",
+      "data": [
+        {
+          "text": "tu es vraiment ennuyeux"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "557d5b49-dbbc-4428-9aa6-30ec7f0a4c65",
+      "data": [
+        {
+          "text": "tu sais",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " que tu ennuyeuse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "861b5eda-f35e-4691-9f05-b2a02840d861",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es ennuyeux "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eab592ca-5e33-4618-ac2d-50a29ba75548",
+      "data": [
+        {
+          "text": "trop ennuyeux "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "56110e74-aa3c-4995-9113-c0f95da14ace",
+      "data": [
+        {
+          "text": "tu es enormement ennuyeux"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "41215f26-2d10-40bd-8a73-24002cc33135",
+      "data": [
+        {
+          "text": "tu es trop ennuyeuse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5ac0714f-2be9-4a68-9f73-bd18211722e9",
+      "data": [
+        {
+          "text": "tu es très ennuyeuse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4aebd9a0-fab3-4df2-8be3-65c3726839eb",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " drôle"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6fa1b647-fc05-41dd-b8f4-f36bcc13b87b",
+      "data": [
+        {
+          "text": "tu n\u0027es "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " drôle"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c804e7ac-48de-4fbc-9fb9-43e7a9ec10f0",
+      "data": [
+        {
+          "text": "tu es ennuyeux"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "9390fc2e-d953-4414-9c58-936689c10e00",
+  "name": "smalltalk.agent.boring",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.boring",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Heureusement que je ne suis pas susceptible ! On peut parler d\u0027autre chose si tu veux.",
+            "Il vaut peut-être mieux changer de sujet dans ce cas.",
+            "C\u0027est peut-être le sujet que tu trouves ennuyeux. Je te propose d\u0027aborder un autre thème.",
+            "J\u0027essaie de faire de mon mieux, mais c\u0027est vrai que le sujet n\u0027est pas passionnant."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

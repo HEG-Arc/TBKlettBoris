@@ -1,0 +1,46 @@
+{
+  "id": "57b64464-4632-4254-b038-6e25da67d3f2",
+  "name": "eventName",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Bal des etudiants",
+      "synonyms": [
+        "Bal des étudiants",
+        "Le bal des étudiants",
+        "Le bal de la HEG",
+        "Le bal HEG",
+        "Bal",
+        "le bal",
+        "bal"
+      ]
+    },
+    {
+      "value": "Pot de bienvenue",
+      "synonyms": [
+        "Pot de bienvenue"
+      ]
+    },
+    {
+      "value": "La journee sportive",
+      "synonyms": [
+        "La journée sportive",
+        "la journée de sport",
+        "la journée sportive"
+      ]
+    },
+    {
+      "value": "La Gest\u0027arc",
+      "synonyms": [
+        "la présentation",
+        "la présentation de la Gest\u0027arc",
+        "la Gest\u0027arc",
+        "la gest\u0027arc",
+        "Gest\u0027arc",
+        "gest\u0027arc"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

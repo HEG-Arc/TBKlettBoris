@@ -1,0 +1,273 @@
+{
+  "userSays": [
+    {
+      "id": "25d1e7e0-be17-469c-abdb-c6375126a709",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " bot"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3973f046-53d9-484c-a355-23553283a6cd",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "robot",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7ead36f-64d6-4b64-865e-ad5b073e7af5",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bot",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8d27a585-551e-4096-9c96-778f7a2f3eac",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "robot",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f6384a9e-ba2b-4ad4-bbb3-9236c2267ed3",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "robot",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d57ba944-5a9b-4cc3-8595-3a34c67c5a5f",
+      "data": [
+        {
+          "text": "es-tu "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "robot",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c480407b-c67d-475f-9f32-3fccd8664d03",
+      "data": [
+        {
+          "text": "es-tu "
+        },
+        {
+          "text": "un chat",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bot",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ab35904-c43a-46c4-a6e1-ea8a52f6cdbe",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " chat "
+        },
+        {
+          "text": "bot",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fe483b91-67a8-4a51-887a-1df348165901",
+      "data": [
+        {
+          "text": "es-tu "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " agent conversationnel"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "77222ed9-1a74-4d9f-bc8c-8dd410fb7d78",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " chatbot"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "fde5f534-63d8-4853-a4e2-479ba0d62f5c",
+  "name": "smalltalk.agent.chatbot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.chatbot",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "C\u0027est vrai. Je suis là pour rendre ton expérience interactive plus performante."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

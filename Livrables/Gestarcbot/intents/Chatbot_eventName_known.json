@@ -1,0 +1,188 @@
+{
+  "userSays": [
+    {
+      "id": "07fb732d-11af-408e-b108-59d836083615",
+      "data": [
+        {
+          "text": "Alors pour le "
+        },
+        {
+          "text": "Bal des étudiants",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "78e948e4-744c-439d-8644-d53d81314f12",
+      "data": [
+        {
+          "text": "Alors le "
+        },
+        {
+          "text": "Bal des étudiants",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "476c629b-89df-4c9a-9ea8-95cbd462312d",
+      "data": [
+        {
+          "text": "Le nom de l\u0027évènement était "
+        },
+        {
+          "text": "la journee sportive",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d448853e-0141-4e41-bd84-4caddd8bc74d",
+      "data": [
+        {
+          "text": "Je crois que c\u0027était le "
+        },
+        {
+          "text": "Pot de bienvenue",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "86671b6c-6a0a-49ad-abeb-109d83943e79",
+      "data": [
+        {
+          "text": "Bal des étudiants",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " je crois."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f4c7c34-a828-4a23-ac2d-908c8672788e",
+      "data": [
+        {
+          "text": "Oui ! "
+        },
+        {
+          "text": "La journee sportive",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "02dca5f7-354e-4db4-b302-cd54e378e967",
+      "data": [
+        {
+          "text": "Oui bien sûr, c\u0027est le "
+        },
+        {
+          "text": "Bal des étudiants",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ae2efe4a-604b-4bec-b402-99ca92c2a10e",
+      "data": [
+        {
+          "text": "Bal des étudiants",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "4a5eb202-cdf7-490d-b159-02e7c6e2cc02",
+  "name": "Chatbot_eventName_known",
+  "auto": true,
+  "contexts": [
+    "context-general"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "check-event-name",
+      "affectedContexts": [
+        {
+          "name": "context-general",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@eventName",
+          "name": "eventName",
+          "value": "$eventName",
+          "isList": false
+        },
+        {
+          "name": "serviceName",
+          "value": "#context-general.serviceName"
+        },
+        {
+          "name": "needed_information",
+          "value": "#context-general.needed_information"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "là ça ne marche pas"
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

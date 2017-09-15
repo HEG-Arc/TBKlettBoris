@@ -1,0 +1,389 @@
+{
+  "userSays": [
+    {
+      "id": "48e68889-c208-4f81-84e1-c6aea7f0d70a",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "ne",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027aides même "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3e99b88b-2eb3-4f90-9c71-9aecc08f5819",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "ne",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027aides "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bc8f96b9-68b0-4e72-b990-dd15b1130fae",
+      "data": [
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " tellement "
+        },
+        {
+          "text": "cool",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f70c5fe5-6816-4ccd-a177-62a7999e7744",
+      "data": [
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "cool",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "029951f1-9d5f-4f7b-960c-d8714ee02616",
+      "data": [
+        {
+          "text": "tu n\u0027es "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " trop "
+        },
+        {
+          "text": "cool",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "005b4002-440c-4a62-a3e1-856605d69e89",
+      "data": [
+        {
+          "text": "tu n\u0027es "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "super",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d47fe2a5-7b86-467a-8a70-3b0e22eebf20",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " bien"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b59a4b98-6509-4594-bc0a-9f73d6a3004e",
+      "data": [
+        {
+          "text": "tu n\u0027es "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " bien"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "691914ac-0840-4ae3-9a63-61aa03fa2112",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " mauvaise personne"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b156ebd8-b509-4a82-910c-be3945bff0a3",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "horrible",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e441a78f-23be-4316-ab77-7545e5aa9931",
+      "data": [
+        {
+          "text": "tu es nulle"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8297324d-abb4-4279-aa77-4c75471e4317",
+      "data": [
+        {
+          "text": "t\u0027es",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nul",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4586f411-ccc4-4e8b-9657-cc3600606f67",
+      "data": [
+        {
+          "text": "tu sers à "
+        },
+        {
+          "text": "rien",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7742f627-f9c4-45c3-934c-9f69aedd3130",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "ne",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " sers à "
+        },
+        {
+          "text": "rien",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "80052589-5729-4c06-a893-4765c60ebcb5",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "ne",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " peux "
+        },
+        {
+          "text": "rien",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " faire"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "55147e80-963d-4536-b4e0-e90e9462acae",
+      "data": [
+        {
+          "text": "t\u0027es "
+        },
+        {
+          "text": "mauvais",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "641ca009-c211-41fe-82d9-385000762601",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "mauvais",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "fcf68f41-b1e9-4303-bf1d-c857e3094224",
+  "name": "smalltalk.agent.bad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.bad",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Laisse-moi encore un peu de temps pour te prouver le contraire."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

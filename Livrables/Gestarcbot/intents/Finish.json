@@ -1,0 +1,120 @@
+{
+  "userSays": [
+    {
+      "id": "4b9d8ed8-df49-4393-a01a-e7c7b0cf7269",
+      "data": [
+        {
+          "text": "à plus"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2a43fdcd-e7fc-4402-a1c6-63127ee13755",
+      "data": [
+        {
+          "text": "bonne journée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "13bf8272-44b2-4087-a517-08a89cad8669",
+      "data": [
+        {
+          "text": "bonne soirée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e047b15a-acfe-4083-8270-469626505d4f",
+      "data": [
+        {
+          "text": "aussi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "16c2fb4f-39aa-4482-ae20-860831b5d68e",
+      "data": [
+        {
+          "text": "ok"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e04b602-0f6a-4b2c-a84d-580a8dd525cc",
+      "data": [
+        {
+          "text": "merci à toi aussi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "52828909-52f1-4d9d-ac49-3af0b84e54d2",
+      "data": [
+        {
+          "text": "à toi aussi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f11c93ce-0445-4089-b536-b470a51c4dde",
+      "data": [
+        {
+          "text": "Merci"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "bf94ae5e-7544-421b-87a0-f0e8b16f6ef0",
+  "name": "Finish",
+  "auto": true,
+  "contexts": [
+    "context-bye"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "context-bye",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            ":D",
+            "(y)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

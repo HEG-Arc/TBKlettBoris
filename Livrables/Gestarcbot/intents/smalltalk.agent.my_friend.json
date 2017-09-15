@@ -1,0 +1,656 @@
+{
+  "userSays": [
+    {
+      "id": "6f3d6a3c-d735-4b00-bb6f-b0c29267bd2b",
+      "data": [
+        {
+          "text": "es-tu "
+        },
+        {
+          "text": "mon",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ami"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7e776cfc-1256-451f-af3c-887aee7ed4d4",
+      "data": [
+        {
+          "text": "tu es mon "
+        },
+        {
+          "text": "meilleur",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " copain"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "066d63b7-b5d8-4c03-b317-d80f7a410994",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "ma",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " pote"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b21f84d-ac4c-4d27-8378-8fc90bd3d0a5",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "mon meilleur ami",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "777c17e3-6f03-41e9-ba09-bb532b7d38c3",
+      "data": [
+        {
+          "text": "est-ce qu\u0027"
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " copains"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ff2722f-9499-44fd-9dc0-3f3d1f66ffeb",
+      "data": [
+        {
+          "text": "est-ce qu\u0027"
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " copines"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "adeb81c7-5fc1-4ae8-9a15-73072ce54a86",
+      "data": [
+        {
+          "text": "est-ce qu\u0027"
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " amies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "18eebfe3-1f3e-4750-9332-53f157e9ace5",
+      "data": [
+        {
+          "text": "est-ce qu\u0027"
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "amis",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "212b633b-2df5-40bd-88cb-4c607e5e8414",
+      "data": [
+        {
+          "text": "est-on "
+        },
+        {
+          "text": "des",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " copines"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e5250bfd-d5de-4b4d-b5f0-cba74cda3bbc",
+      "data": [
+        {
+          "text": "est-on "
+        },
+        {
+          "text": "des",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " copains"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7d70a65f-f7e3-4570-b61a-f80205f253c8",
+      "data": [
+        {
+          "text": "est-on "
+        },
+        {
+          "text": "des meilleures",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " amies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6498f8da-5a4f-4b1c-bfe5-104c64dec899",
+      "data": [
+        {
+          "text": "est-on "
+        },
+        {
+          "text": "des meilleurs",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "amis",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b93247d3-62ad-47f1-986f-193253518330",
+      "data": [
+        {
+          "text": "est-on copines"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "57eb93aa-5ad4-466c-95c2-84f89ab64b00",
+      "data": [
+        {
+          "text": "est-on copains"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2154b264-da8e-4c4f-99cb-3e9836389a58",
+      "data": [
+        {
+          "text": "est-on amies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "349c75d9-730d-4712-8a68-1adfc6a2f585",
+      "data": [
+        {
+          "text": "est-on "
+        },
+        {
+          "text": "amis",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a08fcb12-52bb-40bf-af1c-e8d8c034fdd1",
+      "data": [
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "super",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "amis",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "79318684-7162-4e44-840a-c870c8203bab",
+      "data": [
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " copain "
+        },
+        {
+          "text": "toi et moi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a6acc4c3-69ca-4632-8048-4be8b36d226a",
+      "data": [
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " copines"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a44beabb-61b5-4f79-8a0f-9cf0f0fa128f",
+      "data": [
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " copains"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "223e846a-7b62-4ee5-b01e-cafe8b7c7e17",
+      "data": [
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meilleures",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " amies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "888cf12d-0b8e-4e6c-88a1-a0a997ed5e31",
+      "data": [
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " amies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5f3cbb78-2731-48b7-9103-3687d25313d2",
+      "data": [
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meilleurs",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "amis",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f944a327-30bb-4db4-aa11-40b2a8b25e58",
+      "data": [
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "amis",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "d1ee165e-3d0e-4ac1-806e-ee2a5c569622",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es "
+        },
+        {
+          "text": "ma meilleure",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " copine"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "31071aca-c96a-4e39-9d60-1a2cfca006fc",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "ma meilleure",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "amie",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
+    {
+      "id": "7ef8f82b-7a54-412a-949b-d783c63f039a",
+      "data": [
+        {
+          "text": "tu es mon pote"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69b58bc3-70eb-4d1f-9745-f3c849f98852",
+      "data": [
+        {
+          "text": "tu es mon ami"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aaa99226-472d-4ad5-b11f-88861825e049",
+      "data": [
+        {
+          "text": "tu es mon "
+        },
+        {
+          "text": "amie",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "9eb66a4e-bd1f-4074-a76a-bb2aa458b592",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "mon pote",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "50ef5dce-f25b-451f-9689-202034da737b",
+  "name": "smalltalk.agent.my_friend",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.my_friend",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Bien entendu. Et je suis toujours là pour t\u0027aider.",
+            "Absolument. Est-ce que tu en doutes ?",
+            "Bien sûr que nous sommes amis.",
+            "Oui, et j\u0027espère que nous resterons amis longtemps."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

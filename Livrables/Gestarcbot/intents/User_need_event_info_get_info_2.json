@@ -1,0 +1,1764 @@
+{
+  "userSays": [
+    {
+      "id": "c3530206-be2e-483f-a928-06dd168b8eea",
+      "data": [
+        {
+          "text": "avoir "
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " information sur "
+        },
+        {
+          "text": "le bal de la HEG",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a267e33b-ef1a-486d-8d32-a1de17f6aa8a",
+      "data": [
+        {
+          "text": "dire le "
+        },
+        {
+          "text": "thème",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        },
+        {
+          "text": " du "
+        },
+        {
+          "text": "bal de la HEG",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "87bbd10b-073c-4c0d-b3e8-01fdd845724b",
+      "data": [
+        {
+          "text": "dire le "
+        },
+        {
+          "text": "thème",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        },
+        {
+          "text": " l\u0027événement "
+        },
+        {
+          "text": "pot de bienvenue",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "934d4cfc-9d18-4dc1-a947-f511e0624b6c",
+      "data": [
+        {
+          "text": "date",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        },
+        {
+          "text": " de la soirée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d3de99af-00b2-4754-bd25-52d1cfcffada",
+      "data": [
+        {
+          "text": "date",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        },
+        {
+          "text": " de l\u0027évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "be3e7dec-828e-481a-b06b-f9d71c395f4c",
+      "data": [
+        {
+          "text": "la "
+        },
+        {
+          "text": "date",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        },
+        {
+          "text": " du "
+        },
+        {
+          "text": "bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0ee2a5fc-9bea-416a-9b0b-1fb6ba8d00d6",
+      "data": [
+        {
+          "text": "quand",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        },
+        {
+          "text": " est "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3b717335-7f7c-410a-b56b-1f9d8f100c23",
+      "data": [
+        {
+          "text": "le "
+        },
+        {
+          "text": "jour",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        },
+        {
+          "text": " du "
+        },
+        {
+          "text": "bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6959172a-66d0-4487-9ce2-a2f1e819bb55",
+      "data": [
+        {
+          "text": "quel "
+        },
+        {
+          "text": "jour",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7abc9024-49ff-4ff3-ae5b-ade994de8dcb",
+      "data": [
+        {
+          "text": "quand",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        },
+        {
+          "text": " est l\u0027évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "31a05fbd-358d-4f15-b1f2-325e9ee335de",
+      "data": [
+        {
+          "text": "la journée sportive",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " était "
+        },
+        {
+          "text": "payante",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4634c2d8-797b-42b1-a870-ffd6aabd4ab7",
+      "data": [
+        {
+          "text": "la journée de sport",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " est "
+        },
+        {
+          "text": "payante",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "46c11675-2fd4-4ed1-a3b5-2741db39dc71",
+      "data": [
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " était "
+        },
+        {
+          "text": "gratuit",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d3afafa3-f94a-4255-9fc1-69b4302b23b9",
+      "data": [
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " sera "
+        },
+        {
+          "text": "gratuit",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "16108853-caaf-44f7-a1a6-7dd00a2791a6",
+      "data": [
+        {
+          "text": "votre soirée est "
+        },
+        {
+          "text": "gratuit",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6fde762a-21cb-4209-b733-f1d8e24fc0ad",
+      "data": [
+        {
+          "text": "votre évènement est "
+        },
+        {
+          "text": "gratuit",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c2e9c70d-b058-41f2-9ff7-bda68f8022ab",
+      "data": [
+        {
+          "text": "organisé par la "
+        },
+        {
+          "text": "Gest\u0027arc",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " est "
+        },
+        {
+          "text": "payant",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " ou "
+        },
+        {
+          "text": "gratuit",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "33e271ab-656b-4267-a21b-5faf721ff5c1",
+      "data": [
+        {
+          "text": "est "
+        },
+        {
+          "text": "gratuit",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " ou "
+        },
+        {
+          "text": "payant",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2283d06c-1f4b-4672-b0f7-4210e7b79bd1",
+      "data": [
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " est "
+        },
+        {
+          "text": "gratuit",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d5dc4197-2afd-43f6-b1d7-5c81ddbf0297",
+      "data": [
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " est "
+        },
+        {
+          "text": "payant",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fa35d2fe-c072-4f30-bac5-fa7866eae887",
+      "data": [
+        {
+          "text": "soirée est "
+        },
+        {
+          "text": "payante",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "a91f6192-4193-4dea-ad01-e1838ffc4a90",
+      "data": [
+        {
+          "text": "évènement est "
+        },
+        {
+          "text": "gratuit",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e3c9284d-f009-4c76-b0b3-e043d8ca34b5",
+      "data": [
+        {
+          "text": "évènement est "
+        },
+        {
+          "text": "payant",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b9284ad1-a842-4827-b059-53c40caebe50",
+      "data": [
+        {
+          "text": "tofs",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " du "
+        },
+        {
+          "text": "bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "12203e72-c2fa-4244-9430-54ca9132d852",
+      "data": [
+        {
+          "text": "photos",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " du "
+        },
+        {
+          "text": "bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "73db82fd-98f9-4c23-b018-32d7942b4b54",
+      "data": [
+        {
+          "text": "avoir les "
+        },
+        {
+          "text": "tofs",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eefb8bda-c90c-44e5-bb23-65cf835353d1",
+      "data": [
+        {
+          "text": "avoir les "
+        },
+        {
+          "text": "photos",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "834037da-1da6-44d6-a6cb-98bb8670b6a1",
+      "data": [
+        {
+          "text": "où trouve les "
+        },
+        {
+          "text": "tofs",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ecbf9e63-b276-46f8-bffb-547c59ef062b",
+      "data": [
+        {
+          "text": "où se trouvent les "
+        },
+        {
+          "text": "photos",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2de3da35-41a9-488e-97bf-40f00f258c59",
+      "data": [
+        {
+          "text": "où",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " trouver les "
+        },
+        {
+          "text": "photos",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a1d2fb6a-0ad5-4b65-8a0d-7159390651fc",
+      "data": [
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " c\u0027est quoi comme "
+        },
+        {
+          "text": "style",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " d\u0027évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f660186a-d845-410b-8c2d-f072533379c6",
+      "data": [
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " c\u0027est quoi comme "
+        },
+        {
+          "text": "style",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " de soirée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4b2ff60d-4038-4d63-a836-abdc0c65774c",
+      "data": [
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " c\u0027est quoi comme "
+        },
+        {
+          "text": "type",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " d\u0027évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3a032252-05ec-479e-8672-285e109131e0",
+      "data": [
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " c\u0027est quoi comme "
+        },
+        {
+          "text": "type",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " de soirée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "00632017-d8af-4f3d-98a1-b7ba59dedeb4",
+      "data": [
+        {
+          "text": "le "
+        },
+        {
+          "text": "type",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " de la soirée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ea877a96-81fd-4000-87e4-3e689b577396",
+      "data": [
+        {
+          "text": "le "
+        },
+        {
+          "text": "type",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " de l\u0027évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fd90276c-981c-4dab-9836-bea0afd710fc",
+      "data": [
+        {
+          "text": "quelle "
+        },
+        {
+          "text": "style",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " de soirée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "85ce7a23-0a7a-442c-99b8-009bada81502",
+      "data": [
+        {
+          "text": "quelle "
+        },
+        {
+          "text": "type",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " de soirée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "89f270eb-f467-4a5e-b146-be26df2397d8",
+      "data": [
+        {
+          "text": "quelle "
+        },
+        {
+          "text": "style",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " d\u0027évèvement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "805ae019-170b-4588-991d-15daa4d47b8a",
+      "data": [
+        {
+          "text": "type",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        },
+        {
+          "text": " du "
+        },
+        {
+          "text": "bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7f3a390e-defd-4072-ba66-781e40039584",
+      "data": [
+        {
+          "text": "type",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " d\u0027évènement du "
+        },
+        {
+          "text": "bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0c5cc9e6-1f7d-480a-a158-d830ffe35254",
+      "data": [
+        {
+          "text": "type",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        },
+        {
+          "text": " de soirée du "
+        },
+        {
+          "text": "bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f2d609ac-6469-490c-b9c9-78fba59cd96a",
+      "data": [
+        {
+          "text": "quelle "
+        },
+        {
+          "text": "type",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " d\u0027évèvement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7816342-53c4-44d7-a5ae-66a809ad9008",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " est l\u0027entrée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0507296b-1b3a-45c2-ba37-84bfbd1043d6",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte l\u0027entrée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ae69238-298e-4ddf-98aa-b5a7e9e6984c",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " est l\u0027entrée au "
+        },
+        {
+          "text": "bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2be88e32-2dd3-43b2-81af-6ef25cc9a2e3",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte l\u0027entrée au "
+        },
+        {
+          "text": "bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ee28da5c-f0ab-4c1a-8b21-208f30e874f6",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte les tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "63886065-69b8-4401-920b-0f7ba4a9cbe2",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte les billets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0c0e902c-9e05-48ea-bde6-92516a776a05",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte les billets d\u0027entrer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "920b4f5e-7e55-4e48-a3d1-a7db409f3659",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte les tickets d\u0027entrer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2a860b6a-83bf-4b6f-9efe-0272754e03bb",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte les billets d\u0027entrer pour "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "82d3cdf6-4446-4d43-b4ee-f4d6ff2bcbcc",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte les tickets d\u0027entrer pour "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "361f5b42-0056-452e-af90-d47471e0f8dd",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte les billets d\u0027entrer pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e14b9a31-8311-4c33-8134-9f67169a27b3",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte les tickets d\u0027entrer pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "94c035a2-bfc4-4396-ba30-26dc2ddde5d9",
+      "data": [
+        {
+          "text": "prix",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " d\u0027entrée pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e8183f7-333e-480a-92a8-6a741a2cdb29",
+      "data": [
+        {
+          "text": "prix",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " d\u0027entrée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dedd81e5-b8bc-4c17-ab11-3b201c1bab7f",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte les tickets pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "89777b1f-0e8b-4168-adc4-f983788655bb",
+      "data": [
+        {
+          "text": "Combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte les billets pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e90f2b0-6c6d-43aa-9865-56c6b0fa86bb",
+      "data": [
+        {
+          "text": "j\u0027aimerais bien participer au "
+        },
+        {
+          "text": "bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " et je souhaiterais savoir "
+        },
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte les tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "563e92a1-fea2-4924-868e-620135b70cb3",
+      "data": [
+        {
+          "text": "prix",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " des tickets pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "70e22bbe-8283-430d-9843-088b962eae1d",
+      "data": [
+        {
+          "text": "prix",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " des billets pour "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "24fda71f-3a57-4721-a8ad-3edd37f8a857",
+      "data": [
+        {
+          "text": "j\u0027aimerais bien participer au "
+        },
+        {
+          "text": "bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": " et je souhaiterais savoir "
+        },
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte les billets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "121a9f6f-85f2-4364-9c5a-53299f585241",
+      "data": [
+        {
+          "text": "j\u0027aimerais savoir "
+        },
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a88f7dad-ebce-470c-b42a-a52b9e0cadfe",
+      "data": [
+        {
+          "text": "je souhaiterais savoir "
+        },
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "caf02ead-2583-4f55-b6de-e294005db848",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " coûte"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "26ec4228-edd8-4bef-9f8c-7d35c07a2085",
+      "data": [
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "03c9bea2-63b1-4844-a8f5-b254247142a7",
+      "data": [
+        {
+          "text": "à quelle "
+        },
+        {
+          "text": "heure",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " finit "
+        },
+        {
+          "text": "le bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b2f96cdd-e883-4e29-96ca-c99e947fdd8f",
+      "data": [
+        {
+          "text": " "
+        },
+        {
+          "text": "heure",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": "  finit "
+        },
+        {
+          "text": "le bal des étudiants",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f2593f5-3d20-48f4-8df9-f3c81cff8464",
+      "data": [
+        {
+          "text": " "
+        },
+        {
+          "text": "heure",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " commence "
+        },
+        {
+          "text": "le bal des étudiants",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d094a967-0885-4b12-9b2a-f9de187b18df",
+      "data": [
+        {
+          "text": "l\u0027"
+        },
+        {
+          "text": "horaire",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " de "
+        },
+        {
+          "text": "la journée sportive",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7a033f4-4839-4bf5-9e1e-f7afdf37d4ec",
+      "data": [
+        {
+          "text": "l\u0027"
+        },
+        {
+          "text": "heure",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " du "
+        },
+        {
+          "text": "bal",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "2e32b53b-ac80-4470-9ac2-71c8098ab0d8",
+      "data": [
+        {
+          "text": "heure",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " finis l\u0027évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9f46ae12-442c-450a-9907-cda83a2070b4",
+      "data": [
+        {
+          "text": "heure",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " commence l\u0027évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "852ec362-e6fc-4e94-abc2-36492bab4911",
+      "data": [
+        {
+          "text": "heure",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " aura "
+        },
+        {
+          "text": "lieu",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "la journée sportive",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9a9ab1cc-c96c-4ea6-bca8-dd34c6657e25",
+      "data": [
+        {
+          "text": "savoir le "
+        },
+        {
+          "text": "lieu",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " où"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "63990bac-c600-4ad5-9b6c-bb5d9b41e50d",
+      "data": [
+        {
+          "text": "connaître le "
+        },
+        {
+          "text": "lieu",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " où"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5ee722cb-6057-41e5-bf94-539e1705137c",
+      "data": [
+        {
+          "text": "où",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " se déroule "
+        },
+        {
+          "text": "la journée sportive",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "01ba50ab-9860-4510-86af-26159d10896c",
+      "data": [
+        {
+          "text": "où",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " se passera "
+        },
+        {
+          "text": "la journée sportive",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4c001433-5a80-4388-887d-1153714fd296",
+      "data": [
+        {
+          "text": "où",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " sera organisé "
+        },
+        {
+          "text": "le bal des étudiants",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "da0a4ff6-e137-4032-8baf-e607641fe4a9",
+      "data": [
+        {
+          "text": "où",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " sera organisé"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3cd6ff1f-9e38-423a-93e4-8b0df710341b",
+      "data": [
+        {
+          "text": "où",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " aura "
+        },
+        {
+          "text": "lieu",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "la journée sportive",
+          "alias": "eventName",
+          "meta": "@eventName",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "a448bd7c-c058-4087-a99e-7740bb52967c",
+  "name": "User_need_event_info_get_info_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get-needed-information",
+      "affectedContexts": [
+        {
+          "name": "context-general",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@eventName",
+          "name": "eventName",
+          "value": "$eventName",
+          "isList": false
+        },
+        {
+          "dataType": "@needed_information",
+          "name": "needed_information",
+          "value": "$needed_information",
+          "isList": false
+        },
+        {
+          "name": "serviceName",
+          "value": "directInformations"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Salut, oui biensur voici l\u0027info",
+            "Bonjour voici l\u0027info",
+            "Hello tu pourrais me donner le nom de l\u0027évènement stp?",
+            "Salut pas de problème mais c\u0027est quoi le nom de l\u0027évènement stp?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

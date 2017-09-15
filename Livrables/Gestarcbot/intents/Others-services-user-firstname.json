@@ -1,0 +1,143 @@
+{
+  "userSays": [
+    {
+      "id": "970b342b-c010-4ff4-9416-d9c6fbde72a8",
+      "data": [
+        {
+          "text": "Jonathan",
+          "alias": "userFirstname",
+          "meta": "@userFirstname",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7d799fe9-c9f9-49cf-b605-8537fa1a290d",
+      "data": [
+        {
+          "text": "Boris",
+          "alias": "userFirstname",
+          "meta": "@userFirstname",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1eb262fb-2082-4f75-8844-eb9734396476",
+      "data": [
+        {
+          "text": "Oui, bien sûr c\u0027est "
+        },
+        {
+          "text": "Wilvie",
+          "alias": "userFirstname",
+          "meta": "@userFirstname",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bc4a7136-f478-43e5-bc31-7fd0e25f048e",
+      "data": [
+        {
+          "text": "Mon prénom est "
+        },
+        {
+          "text": "Wilvie",
+          "alias": "userFirstname",
+          "meta": "@userFirstname",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b5446aaf-492e-46b0-b6fc-ddb955148a26",
+      "data": [
+        {
+          "text": "C\u0027est "
+        },
+        {
+          "text": "Boris",
+          "alias": "userFirstname",
+          "meta": "@userFirstname",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f6bf42e-0b40-44f9-8276-2316ed934733",
+      "data": [
+        {
+          "text": "Boris",
+          "alias": "userFirstname",
+          "meta": "@userFirstname",
+          "userDefined": false
+        },
+        {
+          "text": " c\u0027est mon prénom"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "9fc5bd21-a054-4320-97a6-79e576563118",
+  "name": "Others-services-user-firstname",
+  "auto": true,
+  "contexts": [
+    "context-need-firstname"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get-user-by-last-and-firstname",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@userFirstname",
+          "name": "userFirstname",
+          "value": "$userFirstname",
+          "prompts": [
+            "Tu peux juste me redire ton prénom? s\u0027il te plaît"
+          ],
+          "isList": false
+        },
+        {
+          "name": "userName",
+          "value": "#context-need-firstname.userName"
+        },
+        {
+          "name": "eventName",
+          "value": "#context-need-firstname.eventName"
+        },
+        {
+          "name": "serviceName",
+          "value": "#context-need-firstname.serviceName"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "ça ne marche pas"
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,230 @@
+{
+  "userSays": [
+    {
+      "id": "1f3150e7-1476-4d37-b264-b8abed457abe",
+      "data": [
+        {
+          "text": "tu es licencié"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "23961f29-9f7a-49d6-9712-fd14920a5802",
+      "data": [
+        {
+          "text": "tu es renvoyé"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bad40cef-bd57-48f9-9d15-113fff779b60",
+      "data": [
+        {
+          "text": "t\u0027es renvoyée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "45d2ae3d-3407-49c9-876f-e4962e0db468",
+      "data": [
+        {
+          "text": "tu es licenciée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a910d485-e711-4deb-a8aa-06302cb327ff",
+      "data": [
+        {
+          "text": "c",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "le temps",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "de",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " te licencier"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "019b5b40-9a2a-402e-8f9b-bc5d8989d8e1",
+      "data": [
+        {
+          "text": "je",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " te licencie"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f1b57d2d-f711-4887-a7e4-a72f2f1c8767",
+      "data": [
+        {
+          "text": "je",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " te renvoie"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "328cf22b-b034-4b5f-9f7d-c4d9c118fb10",
+      "data": [
+        {
+          "text": "non",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es licenciée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff138c65-566e-48aa-ab5d-dff6dc8b9344",
+      "data": [
+        {
+          "text": "non",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " tu es licencié"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9170bd1e-9f71-4248-a45c-1d2619b857fe",
+      "data": [
+        {
+          "text": "non",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " tu es renvoyé"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d610053e-cf7a-4256-95c0-d23ce1e8264a",
+      "data": [
+        {
+          "text": "non",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " tu es renvoyée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8a1c7654-e9ca-491c-a384-fbb5a84b4413",
+      "data": [
+        {
+          "text": "non",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es renvoyé"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "6042e31f-5473-46ac-839b-92fa081079a1",
+  "name": "smalltalk.agent.fired",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.fired",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Garde-moi encore un peu avec toi.",
+            "Ne prends pas cette décision à la hâte !"
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

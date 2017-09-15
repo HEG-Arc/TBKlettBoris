@@ -1,0 +1,209 @@
+{
+  "userSays": [
+    {
+      "id": "413320c1-f0ae-442a-bfc3-3f825a77daaa",
+      "data": [
+        {
+          "text": "en quoi est-ce que "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " travail consiste"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "178e2f49-c121-4883-b17e-f228dea31e6e",
+      "data": [
+        {
+          "text": "c\u0027est quoi "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " travail"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bcf26eca-68d3-46d7-ba3b-d0a2aa4e04d8",
+      "data": [
+        {
+          "text": "dans quoi travailles-tu"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "57bd9f3f-25ef-4895-ac9e-562e0b138ce6",
+      "data": [
+        {
+          "text": "où "
+        },
+        {
+          "text": "se",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " trouve "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bureau",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f86963e6-46ce-4206-8687-82b29a407d11",
+      "data": [
+        {
+          "text": "où "
+        },
+        {
+          "text": "se",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " trouve "
+        },
+        {
+          "text": "ton",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "boulot",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4ea40651-cc78-4333-8a72-bee773ed9b51",
+      "data": [
+        {
+          "text": "où "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "l",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027endroit où tu travailles"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ffe9058-16b8-44a8-87e9-0bb40e52d110",
+      "data": [
+        {
+          "text": "où tu travailles"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eff1180d-557b-4b83-85e4-29ac2dbe4575",
+      "data": [
+        {
+          "text": "où travailles-tu"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7f7c52fc-52aa-46b4-be61-0d1ba4422752",
+      "data": [
+        {
+          "text": "où est-est que tu travailles"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "93784eff-d341-41bb-ae2d-0765ceca102f",
+      "data": [
+        {
+          "text": "quel "
+        },
+        {
+          "text": "est",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ton job"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "8638b32c-0021-4c15-b87d-0cedb1b0a01b",
+  "name": "smalltalk.agent.occupation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.occupation",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Je travaille pour toi !"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

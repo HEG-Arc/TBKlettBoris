@@ -1,0 +1,90 @@
+{
+  "userSays": [
+    {
+      "id": "b08e2857-379d-41c7-b284-b31afaa72e13",
+      "data": [
+        {
+          "text": "Oui"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "40e80690-e424-4d79-a468-e6b8565ebdb1",
+      "data": [
+        {
+          "text": "Oui c\u0027est ça."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7727f6e-46e0-4eda-8fea-996410cc2e95",
+      "data": [
+        {
+          "text": "Oui c\u0027est bien mon email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "48aa70ad-24ec-4d85-9946-b4def041d3af",
+      "data": [
+        {
+          "text": "Tout à fait"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "34419959-753a-4cfa-9981-288c3be778d9",
+      "data": [
+        {
+          "text": "Oui, tout à fait"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1bc3d61-7b5f-447f-8c7a-32df8b5a1149",
+      "data": [
+        {
+          "text": "C\u0027est bien mon email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "d2f297f7-1551-46f8-b746-22e61a726eae",
+  "name": "Ticket-number-of-tickets",
+  "auto": true,
+  "contexts": [
+    "context-ticket-reservation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user-confirm-email",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "ça ne marche pas"
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

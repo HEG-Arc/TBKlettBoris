@@ -1,0 +1,281 @@
+{
+  "userSays": [
+    {
+      "id": "46307176-7197-4742-8afe-6850274402df",
+      "data": [
+        {
+          "text": " je peux avoir les "
+        },
+        {
+          "text": "photos",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        },
+        {
+          "text": " de cette soirée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f3789763-9a9d-48cc-9cdf-d6828314d40e",
+      "data": [
+        {
+          "text": "et quel est l\u0027"
+        },
+        {
+          "text": "horaire",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "09e0a0fb-4fb9-4b75-ba4e-068acd2d7d4c",
+      "data": [
+        {
+          "text": "quest est l\u0027"
+        },
+        {
+          "text": "horaire",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c2eaf74d-f616-4bf1-9241-b7a8ec7753bf",
+      "data": [
+        {
+          "text": "et ça coûte "
+        },
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f19c77c-8ea4-428c-86bc-cc580c869a44",
+      "data": [
+        {
+          "text": "J\u0027aimerais trouver les "
+        },
+        {
+          "text": "photos",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7444b845-4967-4e83-92a9-7c4e2e690102",
+      "data": [
+        {
+          "text": "C\u0027était fini à quelle "
+        },
+        {
+          "text": "heure",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5147de4d-774d-4eb0-abef-a3bc899c1a09",
+      "data": [
+        {
+          "text": "J\u0027aimerais savoir "
+        },
+        {
+          "text": "où",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " est ce que je peux trouver les "
+        },
+        {
+          "text": "photos",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " de l\u0027évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "55e7ea8c-df3c-4c85-9051-70a82972a660",
+      "data": [
+        {
+          "text": "Je voulais savoir déjà le "
+        },
+        {
+          "text": "thème",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " de la soirée."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fd9faeea-7a16-42a7-8905-97bc19575834",
+      "data": [
+        {
+          "text": "Ça coûte "
+        },
+        {
+          "text": "combien",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "18c668e7-f943-43af-9d7f-805c2bb3f209",
+      "data": [
+        {
+          "text": "Quel est le "
+        },
+        {
+          "text": "prix",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": " des ticket?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cd721968-b328-4bfd-bae3-bdaaab2f7528",
+      "data": [
+        {
+          "text": "le "
+        },
+        {
+          "text": "lieu",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "68bb181e-ee52-49bd-871f-18fbbe337fbc",
+      "data": [
+        {
+          "text": "Quel est l\u0027"
+        },
+        {
+          "text": "horaire",
+          "alias": "needed_information",
+          "meta": "@needed_information",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "e2136570-1705-46b5-816f-54c70674c11c",
+  "name": "User_need_event_info_get_info",
+  "auto": true,
+  "contexts": [
+    "context-research-information"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get-needed-information",
+      "affectedContexts": [
+        {
+          "name": "context-research-information",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@needed_information",
+          "name": "needed_information",
+          "value": "$needed_information",
+          "isList": false
+        },
+        {
+          "name": "eventName",
+          "value": "#context-research-information.eventName"
+        },
+        {
+          "name": "serviceName",
+          "value": "#context-research-information.serviceName"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "ça ne marche plus là"
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

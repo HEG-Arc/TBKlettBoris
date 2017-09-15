@@ -1,0 +1,163 @@
+{
+  "userSays": [
+    {
+      "id": "4ba5ff87-f468-4aa8-8f38-c308aeb3c8ae",
+      "data": [
+        {
+          "text": "c\u0027est quoi déjà le "
+        },
+        {
+          "text": "nom",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " de l\u0027évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a174d314-1974-403a-971b-eae0a6c5a380",
+      "data": [
+        {
+          "text": "c\u0027est quoi les évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "77e45d15-282d-498a-8c4d-b99e5cde3621",
+      "data": [
+        {
+          "text": "non je ne sais pas"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "60902f89-47ba-446f-8e17-027dc4a59325",
+      "data": [
+        {
+          "text": "je ne sais pas"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b5aa092-523d-4eab-bfbd-fb269eab212c",
+      "data": [
+        {
+          "text": "non désolé"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "50c224a7-3344-4ba9-af72-3e02458b6975",
+      "data": [
+        {
+          "text": "Non je ne sais plus désolé"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "15b447eb-d434-47b2-8ac0-c7a09ed804a4",
+      "data": [
+        {
+          "text": "Non"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "60b4dcc2-5a07-484e-88f9-8f29b6f476c6",
+      "data": [
+        {
+          "text": "Non."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3f992772-afa8-499f-a1ff-61b5be676332",
+      "data": [
+        {
+          "text": "Non je ne sais plus."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "785b3e04-01ec-429e-a74d-ee4b29a10bb3",
+      "data": [
+        {
+          "text": "Aucune idée."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9ea0450f-d263-4eea-9bba-d1123e2ba966",
+      "data": [
+        {
+          "text": "Je ne sais plus"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "73b52731-4c16-4f7a-8cc7-44018d430134",
+  "name": "Chatbot_eventName_unknown",
+  "auto": true,
+  "contexts": [
+    "context-general"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get-events-to-help",
+      "affectedContexts": [
+        {
+          "name": "context-general",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "name": "serviceName",
+          "value": "#context-general.serviceName"
+        },
+        {
+          "name": "needed_information",
+          "value": "#context-general.needed_information"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "ça ne marche pas."
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

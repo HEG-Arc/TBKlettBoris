@@ -1,0 +1,124 @@
+{
+  "userSays": [
+    {
+      "id": "412b8bbd-360f-43a1-8bfa-56cd4105519a",
+      "data": [
+        {
+          "text": "Oui çava merci"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f1a82de3-2e4a-450d-b927-2a39f20fab4a",
+      "data": [
+        {
+          "text": "oui çava"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e91aee0d-e8e8-49c4-8134-853483ec1baa",
+      "data": [
+        {
+          "text": "çava merci"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "58263583-5038-4510-8b00-f645687d46be",
+      "data": [
+        {
+          "text": "ça va merci"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "12e37166-fb05-4569-98ad-4782623af3c4",
+      "data": [
+        {
+          "text": "la forme"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cee10e3e-df2f-43a6-92ab-e3f441ab139b",
+      "data": [
+        {
+          "text": "oui"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a62b6248-db8a-4b06-9a8a-4fe8ae8aaa1d",
+      "data": [
+        {
+          "text": "oui ça va"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "802b3f4e-bb5f-4896-83af-91b0917b109c",
+      "data": [
+        {
+          "text": "Oui ça va merci"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "03497873-5101-4098-b044-25e63827c2ce",
+  "name": "Chatbot-sollicitation-user-get-well",
+  "auto": true,
+  "contexts": [
+    "context-sollicitation-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "context-sollicitation",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "context-service-done",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "ok c\u0027est cool, je peux t\u0027aider?",
+            "nice, comment puis-je t\u0027aider?",
+            "la classe je peux t\u0027aider?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

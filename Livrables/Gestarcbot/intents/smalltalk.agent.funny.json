@@ -1,0 +1,367 @@
+{
+  "userSays": [
+    {
+      "id": "de4aae45-2069-4201-a462-3378ef300349",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fais",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " trop marrer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2206ec3e-b587-4195-ada3-060ed2d859e2",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fais",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " trop rire"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "deaa9cc2-cbfa-412d-9a51-d554fb80fc78",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fais",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " marrer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7897ea72-c169-4b98-bf81-00ea9b4dae09",
+      "data": [
+        {
+          "text": "tu "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fais",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " rire"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e7ba7967-cfea-4500-b736-b445de3745b3",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es "
+        },
+        {
+          "text": "super",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " rigolo"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6d4792ff-d57f-41b0-b54f-1e2cc759e82b",
+      "data": [
+        {
+          "text": "tu es rigolo"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5081eb95-cbf3-4e1f-b113-3b7b9d8476eb",
+      "data": [
+        {
+          "text": "tu es trop amusant"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "17c9bcce-0975-4112-82ee-b331264ab217",
+      "data": [
+        {
+          "text": "tu es amusant"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "045498a0-788b-459c-b512-cb045efcc443",
+      "data": [
+        {
+          "text": "tu es amusante"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cefa6fd9-ab78-47ac-80bb-77df31d78f45",
+      "data": [
+        {
+          "text": "tu es vraiment marrante"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "733c2898-fcd8-4ce5-931f-7de145cfbe9e",
+      "data": [
+        {
+          "text": "tu es méga drôle"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "db39918b-8f1c-4156-9aa6-cfc72f8ef80f",
+      "data": [
+        {
+          "text": "tu es hyper drôle"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b8860d59-88cf-45b8-8094-9c46f3a7e20e",
+      "data": [
+        {
+          "text": "tu es hyper marrant"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed252865-f304-4895-ac2e-51741f1bc225",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es trop marrant"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "99b23a71-af05-4ab5-8db1-8da597cbf5f3",
+      "data": [
+        {
+          "text": "tu es trop marrant"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "44506f21-2f0d-4130-810a-87c111ecd55a",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "super",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " marrante"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "deeff637-1717-4185-8141-93f2d0afbb65",
+      "data": [
+        {
+          "text": "super",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " drôle "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ea80bf6-d08d-4846-af66-685972ba0986",
+      "data": [
+        {
+          "text": "tu es marrant "
+        },
+        {
+          "text": "toi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b0b8471f-11a7-40d5-b3f5-a2b092a0f3d6",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es marrant"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8bf0ccc7-c29a-45fd-9f60-939b8d329ac0",
+      "data": [
+        {
+          "text": "t",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027es marrante"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3dab4358-a97b-4bef-9337-c37c6f201ab6",
+      "data": [
+        {
+          "text": "tu es marrant"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aa648197-c9d8-474d-91d7-9b1e2243cdf7",
+      "data": [
+        {
+          "text": "tu es drôle"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "15657d8d-4273-4609-acbb-86ba8302b161",
+  "name": "smalltalk.agent.funny",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.funny",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Ton compliment me flatte.",
+            "Un peu d\u0027humour, c\u0027est bon pour le moral, non ?",
+            "Je vois que tu apprécies mon sens de l\u0027humour, ça fait plaisir.",
+            "Merci, ça me touche beaucoup."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

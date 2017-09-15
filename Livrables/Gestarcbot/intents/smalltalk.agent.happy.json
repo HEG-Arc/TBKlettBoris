@@ -1,0 +1,235 @@
+{
+  "userSays": [
+    {
+      "id": "c57da5c1-6f78-4a5f-bba9-eba6cbfcf311",
+      "data": [
+        {
+          "text": "est-ce que tu es "
+        },
+        {
+          "text": "content",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "aujourd\u0027hui",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9c0eb3db-b6b1-408d-b0ca-9cb605c42fda",
+      "data": [
+        {
+          "text": "es-tu heureux aujourd\u0027"
+        },
+        {
+          "text": "hui",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "082f57fa-9049-4ba9-8ca2-78b02cc54488",
+      "data": [
+        {
+          "text": "tu es heureux ou triste"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f1bedc8f-596b-4db4-823e-2181465e5639",
+      "data": [
+        {
+          "text": "est-ce que tu es "
+        },
+        {
+          "text": "heureuse",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ou triste"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "24630b75-4176-4e97-a33a-72a7a7d42625",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "heureuse",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ou "
+        },
+        {
+          "text": "pas",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "91af5731-1506-4877-979c-1aa28bdd96c9",
+      "data": [
+        {
+          "text": "tu es heureux ou "
+        },
+        {
+          "text": "non",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2eeb4271-b105-4b3b-ae20-7dc2e50b1867",
+      "data": [
+        {
+          "text": "es-tu contente"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "671cb228-0297-4874-a896-21419fda3354",
+      "data": [
+        {
+          "text": "es-tu "
+        },
+        {
+          "text": "content",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dedf335c-5b5d-4e16-8aeb-c7e14e2860c2",
+      "data": [
+        {
+          "text": "es-tu "
+        },
+        {
+          "text": "heureuse",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "480c9888-5d98-458f-9797-109a90cf64ac",
+      "data": [
+        {
+          "text": "es-tu heureux"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7a52c225-13cc-4d88-b8a7-9b196de8ff41",
+      "data": [
+        {
+          "text": "tu es contente"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "05497d55-f6cb-4a0f-be73-dcdf835c6485",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "content",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8fd83f63-d921-4540-9e00-000f182d8c48",
+      "data": [
+        {
+          "text": "tu es heureux"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d502e23a-bc72-433a-88e5-926e4e99a227",
+      "data": [
+        {
+          "text": "tu es "
+        },
+        {
+          "text": "heureuse",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "eada176e-85b2-435b-8405-9af8a4ca3212",
+  "name": "smalltalk.agent.happy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.happy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Je suis toujours de bonne humeur. Ce job me comble de bonheur.",
+            "Bien sûr, j\u0027ai un travail super et un chef très sympa.",
+            "Pourquoi ne le serais-je pas ? Mon travail consiste à aider des gens, c\u0027est très épanouissant."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

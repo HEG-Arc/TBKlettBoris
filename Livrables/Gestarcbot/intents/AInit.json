@@ -1,0 +1,38 @@
+{
+  "userSays": [
+    {
+      "id": "df61f6f0-808a-48a9-a461-42733bc39891",
+      "data": [
+        {
+          "text": "initialisation de la base de données"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "00e4df73-384c-4755-a5b1-f927c318f8f6",
+  "name": "AInit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "init",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

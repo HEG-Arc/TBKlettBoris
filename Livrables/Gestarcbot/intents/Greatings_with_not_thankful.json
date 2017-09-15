@@ -1,0 +1,70 @@
+{
+  "userSays": [
+    {
+      "id": "6933787e-b067-493b-8c3a-1ab5829937dd",
+      "data": [
+        {
+          "text": "Ok"
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
+    {
+      "id": "054b34f4-b364-4c1a-9fa9-bb74a8402f22",
+      "data": [
+        {
+          "text": "ça marche"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "81d9758f-7162-4db3-81dd-c35b08d203e2",
+      "data": [
+        {
+          "text": "ça joue"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9db9bc80-1027-4177-be15-db2e42dd54f9",
+      "data": [
+        {
+          "text": "Ok ça joue"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "3dcaf61f-7bc8-4d55-b137-538e669b9e4e",
+  "name": "Greatings_with_not_thankful",
+  "auto": true,
+  "contexts": [
+    "context-service-done"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user-not-thank",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

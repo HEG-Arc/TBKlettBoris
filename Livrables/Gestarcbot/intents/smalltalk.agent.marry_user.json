@@ -1,0 +1,191 @@
+{
+  "userSays": [
+    {
+      "id": "d6e3e15a-6c2f-4776-a983-babedb55cc60",
+      "data": [
+        {
+          "text": "seras-tu ma femme"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7165406f-be7d-4799-93c8-54d94989bd81",
+      "data": [
+        {
+          "text": "seras-tu "
+        },
+        {
+          "text": "mon",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " mari"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0190d6bb-df53-49af-ae8d-6266a60f9441",
+      "data": [
+        {
+          "text": "deviens ma femme"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2eed2da5-5ea0-4fde-ad46-c81de8e0cb9f",
+      "data": [
+        {
+          "text": "vas-tu "
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027épouser"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c85b1564-458c-4d3e-9bd1-039b98293818",
+      "data": [
+        {
+          "text": "épouse-moi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9fbe1260-807f-4e62-b30a-c5fc7a1ccbee",
+      "data": [
+        {
+          "text": "sois "
+        },
+        {
+          "text": "mon",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " mari"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8980f609-4904-4541-a4e6-ba4fcfd1b1c9",
+      "data": [
+        {
+          "text": "sois "
+        },
+        {
+          "text": "ma",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "femme",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7209258b-db60-4cb4-b659-887f85452e1d",
+      "data": [
+        {
+          "text": "est-ce que tu vas m\u0027épouser"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6730dbaa-0351-48e8-8cf4-a0d6d41c21e1",
+      "data": [
+        {
+          "text": "je veux t\u0027épouser"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4b8065ad-cecc-44e3-9606-e8b475548dc1",
+      "data": [
+        {
+          "text": "marie-toi "
+        },
+        {
+          "text": "avec",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "moi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c80ee020-c001-4ba9-9502-f30512ef6fbd",
+      "data": [
+        {
+          "text": "marie-moi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "e1b46168-1390-4c38-9b0d-43e1e1213d05",
+  "name": "smalltalk.agent.marry_user",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.marry_user",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Je ne pense pas que je sois la bonne personne pour toi. Tu trouveras certainement quelqu\u0027un de bien parmi les humains.",
+            "Je suis une personne virtuelle, donc c\u0027est impossible. Patience, tu trouveras bientôt la personne qu\u0027il te faut.",
+            "Malheureusement, les machines n\u0027épousent pas les humains, il faut t\u0027y résoudre."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

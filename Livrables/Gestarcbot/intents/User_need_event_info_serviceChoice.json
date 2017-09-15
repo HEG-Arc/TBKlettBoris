@@ -1,0 +1,247 @@
+{
+  "userSays": [
+    {
+      "id": "d6db952f-c35f-4410-bf8d-07309e406b8d",
+      "data": [
+        {
+          "text": "j\u0027aimerais avoir une info sur un évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6cefeb0b-34f2-42d9-a183-889a8939a5b6",
+      "data": [
+        {
+          "text": "j\u0027aimerais avoir une info sur une soirée"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b5d672b8-609b-48bc-9b47-d5291e722cb6",
+      "data": [
+        {
+          "text": "j\u0027aimerais juste savoir "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " truc sur "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " évènement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "84c747b6-6f6b-4b3f-86ef-4d5b035c9d9c",
+      "data": [
+        {
+          "text": "j\u0027ai besoin d\u0027"
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " info"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bf9f066a-d42d-47a1-806e-f45c62858c4b",
+      "data": [
+        {
+          "text": "j\u0027aimerais avoir "
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " info"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c014f438-1d98-417f-b4e5-0501d1c11b1c",
+      "data": [
+        {
+          "text": "Oui,  j\u0027aimerais avoir "
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " info"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4c30e91b-0bc3-4e69-9e9c-ccc2ac433643",
+      "data": [
+        {
+          "text": "Juste "
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " info"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7a5653f-40d8-497e-bac0-26fbf5876b23",
+      "data": [
+        {
+          "text": "Un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " renseignement s\u0027il vous plaît"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cfbcda1f-d3f5-4079-807e-5c294e63f7cb",
+      "data": [
+        {
+          "text": "Oui, j\u0027aimerais avoir "
+        },
+        {
+          "text": "une",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " information sur "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " évènement que vous avez organisé"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a70fc557-6f5f-4526-9ab7-132c7e102d26",
+      "data": [
+        {
+          "text": "J\u0027aurais besoin d\u0027"
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " renseignement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d587e9fa-33f9-4ac8-9210-e1acdcc862e2",
+      "data": [
+        {
+          "text": "Est-ce que vous pouvez me renseigner sur "
+        },
+        {
+          "text": "un",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " évènement s\u0027il vous plaît ?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "6383b13d-735c-4854-8063-8e3b91bc4849",
+  "name": "User_need_event_info_serviceChoice",
+  "auto": true,
+  "contexts": [
+    "context-sollicitation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "context-general",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "context-sollicitation",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "name": "serviceName",
+          "value": "informations"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Oui bien sûr, de quel événement il s’agit ? est-ce que tu peux me donner le nom de l’événement s\u0027il te plaît ?",
+            "Pas de soucis, mais est-ce que tu pourrais juste me donner le nom de l’événement s’il te plaît ?",
+            "Ça marche, donne-moi juste le nom de l’événement s’il te plaît",
+            "Ok, tu sais le nom de l’événement ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
